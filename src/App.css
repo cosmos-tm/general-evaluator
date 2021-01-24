@@ -1,5 +1,29 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: #034694;
+  justify-content: center;
+}
+
+.cosmosLogo {
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  font-size: large;
+  color: white;
+  font-size: 20px;
+  /* display: flex;
+  justify-content: center; */
+}
+
+.generalEvaluatorLogo {
+  position: absolute;
+  left: 300px;
+  top: 7px;
+  /* font-size: large; */
+  /* color: white; */
+  /* font-size: 15px; */
 }
 
 .App-logo {
@@ -27,6 +51,106 @@
 .App-link {
   color: #61dafb;
 }
+
+.textFieldStyles {
+  background-color: #f1f1f1;
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.graphContainer {
+  /* display: flex; */
+  /* align-items: center;
+  justify-content: center; */
+  left: 100px;
+}
+
+.graphStyles {
+  border: 2px solid black;
+  width: 800px;
+  height: 500px;
+  top: 50px;
+  left: 250px;
+  /* padding: ; */
+  margin-left: 150px;
+  margin-top: 100px;
+}
+
+.pivotContainer {
+  /* display: flex; */
+  top: 90px;
+  left: 100px;
+  position: relative;
+  width: 1300px;
+}
+
+.pivotContainerWithOpacity {
+  /* display: flex; */
+  top: 90px;
+  left: 100px;
+  position: relative;
+  opacity: 0.1;
+  width: 1300px;
+  pointer-events: none;
+}
+
+.fakeFocusResult {
+  width: 298px;
+  height: 30px;
+}
+
+.fakeFocusResult:hover {
+  background-color: #f3f2f1;
+  width: 298px;
+  height: 30px;
+  /* border: 1px solid darkgray; */
+}
+
+.feedbackNotesContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.feedbackNotesAndLabelOuterDiv {
+  padding-top: 20px;
+}
+
+.feedbackNote {
+  width: 200px;
+  /* height: 100px; */
+  border: 1px solid gray;
+  background-color: lightyellow;
+  padding: 2px;
+  text-align: left;
+  /* padding-right: 5px; */
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+/* .feedbackNote:hover {
+  background-color: yellowgreen;
+  color: white;
+} */
+
+.fakeFocusResultWithHover {
+  background-color: #f3f2f1;
+  width: 298px;
+  height: 30px;
+  /* border: 1px solid darkgray; */
+}
+
+.contextualMenuDiv {
+  position: absolute;
+  left: 150px;
+  width: 200px;
+}
+
+/* .vanllasearchcomponent {
+  z-index: 30000000;
+} */
 
 @keyframes App-logo-spin {
   from {

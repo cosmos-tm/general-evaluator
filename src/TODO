@@ -1,0 +1,17 @@
+TODO
+----
+Use SearchBox for searching with nice icon
+Make sticky notes for best parts
+When TextField is empty, show an animation for the first pivot
+What is the search results component in Sharepoint?
+
+Code
+----
+1. const at the top, private inside the class?
+2. diff b/w <> and </>
+
+Fabric questions
+----------------
+1. textfield using ref
+2. why is callout even necesary?
+3. Why is my ContextualMenu code not working?
