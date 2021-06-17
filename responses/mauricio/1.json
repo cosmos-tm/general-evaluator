@@ -1,0 +1,117 @@
+{
+    "range": "'Form Responses 1'!A1:N111",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? Anything you'd like to challenge the speaker with?",
+        "What was the best part about the speech?"
+      ],
+      [
+        "7/17/2020 19:37:11",
+        "3",
+        "2",
+        "2",
+        "3",
+        "4",
+        "Structure, flow",
+        "pictures and video"
+      ],
+      [
+        "7/17/2020 19:37:49",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "very informative "
+      ],
+      [
+        "7/17/2020 19:38:02",
+        "5",
+        "5",
+        "4",
+        "1",
+        "5",
+        "Too many words on the PowerPoint,",
+        "The passion on the topic was evident "
+      ],
+      [
+        "7/17/2020 19:38:30",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "",
+        "The slides were very well made, easy to read, and with great pictures!"
+      ],
+      [
+        "7/17/2020 19:38:36",
+        "5",
+        "5",
+        "5",
+        "3",
+        "4",
+        "",
+        "love your picture. it make me want to visit."
+      ],
+      [
+        "7/17/2020 19:38:50",
+        "5",
+        "5",
+        "4",
+        "3",
+        "4",
+        "You can use some hand gestures and change the tone of your voice. Use some adjectives like \"The amazing spectacular Maya civilization\" and create a sense of mystery.",
+        "Great topic. I like the structure. Very well thought out and great content!"
+      ],
+      [
+        "7/17/2020 19:39:05",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Can add more of your experience",
+        "The introduction by starting with the geographical location to all the things mayans was known for to more in depth things. Presentation was great with a lot of pictures!"
+      ],
+      [
+        "7/17/2020 19:39:23",
+        "5",
+        "4",
+        "2",
+        "3",
+        "4",
+        "Perhaps a little more vocal variety: faster/slower louder/softer",
+        "Cool topic! I liked the pictures and your enthusiasm for Mayan things!"
+      ],
+      [
+        "7/17/2020 19:40:52",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Show more of your top half so that we can see your gestures.",
+        "The slide deck was clear, bright, beautiful, and interesting!"
+      ],
+      [
+        "7/17/2020 19:42:27",
+        "5",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Add titles to the slides.",
+        "The pics"
+      ]
+    ]
+  }
+  

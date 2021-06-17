@@ -1,0 +1,125 @@
+{
+    "range": "'Form Responses 1'!A1:N112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "11/20/2020 19:46:52",
+        "4",
+        "3",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "11/20/2020 19:47:10",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "",
+        "Orcas are like humans! "
+      ],
+      [
+        "11/20/2020 19:47:15",
+        "4",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Maybe quicker survey with the show of hands, and didn't see hand gestures.",
+        "Great picture and touchy story."
+      ],
+      [
+        "11/20/2020 19:47:16",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Technology opportunities ",
+        "Images were excellent!"
+      ],
+      [
+        "11/20/2020 19:47:20",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "Not any that I can think of!",
+        "The emotional appeal, and use of polling before and after to make the point. really great photographs!"
+      ],
+      [
+        "11/20/2020 19:47:21",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Time.",
+        "Very clear explanation and convincing material. "
+      ],
+      [
+        "11/20/2020 19:47:29",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Obviously the time to set up polling but great speech!",
+        "I love whales! Great topic, love how you were able to persuade the audience with an emotional story and facts about orcas."
+      ],
+      [
+        "11/20/2020 19:47:30",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "",
+        "I love the speech and your presentation today. It was touching and educational. Thank you for sharing! great job!!"
+      ],
+      [
+        "11/20/2020 19:47:32",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "One of your best speeches so far, Gavin! The effort clearly showed and you convinced almost everyone too. Well done!"
+      ],
+      [
+        "11/20/2020 20:37:22",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Watch your time... Maybe see if you can streamline the audience interaction some.",
+        "Great topic man, I absolutely love killer whales! Have you seen the movie Free Willy?  Your speech brought me back to that movie. Good slides shared, audience interaction, and sharing your personal story."
+      ],
+      [
+        "11/20/2020 21:51:47",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Technology opportunities ",
+        "Images were excellent!"
+      ]
+    ]
+  }
+  

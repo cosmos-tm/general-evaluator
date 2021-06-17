@@ -1,0 +1,56 @@
+{
+    "range": "'Form Responses 1'!A1:N105",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "5/14/2021 19:34:32",
+        "3",
+        "4",
+        "4",
+        "4",
+        "5",
+        "You could slow down a bit",
+        "Nice topic and research"
+      ],
+      [
+        "5/14/2021 19:34:40",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "maybe body language that conveys meaning",
+        "preparation and flow."
+      ],
+      [
+        "5/14/2021 19:34:55",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Slow down.",
+        "Very timely topic!"
+      ],
+      [
+        "5/14/2021 19:35:37",
+        "5",
+        "5",
+        "3",
+        "2",
+        "3",
+        "Tessara- great great research and preparation. I would challenge you to not look at the script as much and also speak a bit slower. Also, see if you could incorporate some more vocal variety. "
+      ]
+    ]
+  }
+  

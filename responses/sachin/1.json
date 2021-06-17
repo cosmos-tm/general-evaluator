@@ -1,0 +1,193 @@
+{
+    "range": "'Form Responses 1'!A1:N119",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "7/24/2020 19:38:03",
+        "5",
+        "3",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "7/24/2020 19:38:25",
+        "3",
+        "3",
+        "4",
+        "4",
+        "4",
+        "Slow down. ",
+        "Characterizations were great!"
+      ],
+      [
+        "7/24/2020 19:38:31",
+        "3",
+        "4",
+        "5",
+        "5",
+        "5",
+        "When doing two people, use two voices, to help everyone understand who is who.",
+        "The hand gestures"
+      ],
+      [
+        "7/24/2020 19:38:39",
+        "2",
+        "2",
+        "4",
+        "4",
+        "3"
+      ],
+      [
+        "7/24/2020 19:38:41",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "",
+        "Very nice follow up on your previous speech"
+      ],
+      [
+        "7/24/2020 19:39:11",
+        "4",
+        "3",
+        "4",
+        "5",
+        "5",
+        "You can try other speech formats that are more personal",
+        "Good expressions and vocal variety"
+      ],
+      [
+        "7/24/2020 19:39:11",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4",
+        "It's a bit hard to understand you sometimes on certain pronunciation.",
+        "Your acting is so awesome!"
+      ],
+      [
+        "7/24/2020 19:39:11",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Maybe try to have laptop on stable surface, since it shakes a bit when you move your hands.",
+        "The energy and emotion."
+      ],
+      [
+        "7/24/2020 19:39:12",
+        "2",
+        "2",
+        "5",
+        "5",
+        "4",
+        "",
+        "the energy in your words and your gestures"
+      ],
+      [
+        "7/24/2020 19:39:13",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Some parts were said quickly or quietly so were difficult to hear",
+        "Animated portrayal of the two different characters and use of humor!"
+      ],
+      [
+        "7/24/2020 19:39:38",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Maybe see if you can engage the audience some by asking them a few questions and encourage them to unmute their lines to participate.",
+        "Hand gestures, enthusiasm, energy, topic, and the role playing throughout the speech."
+      ],
+      [
+        "7/24/2020 19:39:43",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "I felt the ending was a little abrupt, perhaps you could've summarized the point of the speech.",
+        "Great level of emotion and you're now really comfortable with the socratic method."
+      ],
+      [
+        "7/24/2020 19:39:45",
+        "4",
+        "4",
+        "5",
+        "4",
+        "4",
+        "You could have a more conclusive ending!",
+        "Loved how animated and expressive you were. GREAT vocal variety"
+      ],
+      [
+        "7/24/2020 19:39:56",
+        "3",
+        "4",
+        "5",
+        "5",
+        "5",
+        "",
+        "I liked your enthusiasm and energy.  And, the dark humor of your speech."
+      ],
+      [
+        "7/24/2020 19:46:19",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "more clear on your role playing",
+        "cool structure "
+      ],
+      [
+        "7/24/2020 22:12:09",
+        "3",
+        "3",
+        "4",
+        "4",
+        "4",
+        "Slow down. ",
+        "Characterizations were great!"
+      ],
+      [
+        "7/26/2020 1:18:01",
+        "3",
+        "3",
+        "4",
+        "4",
+        "4",
+        "Slow down. ",
+        "Characterizations were great!"
+      ],
+      [
+        "7/26/2020 10:59:21",
+        "3",
+        "3",
+        "4",
+        "4",
+        "4",
+        "Slow down. ",
+        "Characterizations were great!"
+      ]
+    ]
+  }
+  

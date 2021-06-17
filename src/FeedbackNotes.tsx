@@ -1,31 +1,40 @@
 import * as React from 'react';
 import FeedbackNote from './FeedbackNote'
-import './App.css';
+import styles from './Logo.module.css';
 import { Label } from '@fluentui/react';
 
 interface IFeedbackNoteProps {
-    comments: string[][];
+    positive: string[];
+    negative: string[];
 }
 
 class FeedbackNotes extends React.Component<IFeedbackNoteProps, {}> {
     public render() {
-        const commensForAllSpeeches = this.props.comments;
+        const positive = this.props.positive;
+        const negative = this.props.negative;
 
         return (
-            <div className="">
-                {commensForAllSpeeches.map((value, index)=>{
-                        const allCommentsForThisSpeech = value;
-                    return <div className="feedbackNotesAndLabelOuterDiv">
-                        <Label>Comments for speech {index + 1}</Label>
-                        
-                        <div className="feedbackNotesContainer">
-                        {commensForAllSpeeches[index].map( (speechComment, indexOfComment)=> {
-                            return <FeedbackNote comment={speechComment}/>
-                        })}</div>
+            <>
 
-                    </div>;
-                })}
-            </div>
+                <div className={styles.feedbackNotesAndLabelOuterDiv}>
+                    <Label>Improvement opportunities</Label>
+                </div>
+                <div className={styles.feedbackNotesContainer}>
+                    {positive.map((value, index)=>{
+                        return <FeedbackNote comment={value}/>
+                    })}
+                </div>
+
+                <div className={styles.feedbackNotesAndLabelOuterDiv}>
+                    <Label>Best Parts</Label>
+                </div>
+                <div className={styles.feedbackNotesContainer}>
+                    {negative.map((value, index)=>{
+                        return <FeedbackNote comment={value}/>
+                    })}
+                </div>
+                
+            </>
         )
     }
 }

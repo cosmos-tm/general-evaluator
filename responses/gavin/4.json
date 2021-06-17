@@ -1,0 +1,131 @@
+{
+    "range": "'Form Responses 1'!A1:N113",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "9/25/2020 19:41:27",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "9/25/2020 19:41:48",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "9/25/2020 19:42:05",
+        "4",
+        "5",
+        "3",
+        "4",
+        "4",
+        "Hard to do this with the mentor speech - it's a dry topic - but add more enthusiasm to it!",
+        "Rule of 3 hands down"
+      ],
+      [
+        "9/25/2020 19:42:16",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "",
+        "the topic of your speech, mentorship is an important part to improve ourselves and help others "
+      ],
+      [
+        "9/25/2020 19:42:21",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Maybe share a recent example of how your current mentor changed your outlook ",
+        "Structure and content"
+      ],
+      [
+        "9/25/2020 19:42:22",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "The three examples seem equally weighted. It's better to have one emphasis and others are minor.",
+        "Very full of details and examples."
+      ],
+      [
+        "9/25/2020 19:42:27",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "",
+        "You divided your time almost equally between the three segments (the three jobs), which is commendable :)"
+      ],
+      [
+        "9/25/2020 19:42:32",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Nice to talk about all these mentor impacted you aside from their style of mentorship",
+        "Seeing mentorship at different angles and sharing summary of the insight."
+      ],
+      [
+        "9/25/2020 19:42:55",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Could you have done this speech standing up or at a slight distance from your computer?",
+        "Great way use the word of the day within your speech and all natural stories are the best and smoothest way to give a speech - smart!"
+      ],
+      [
+        "9/25/2020 19:48:19",
+        "4",
+        "4",
+        "2",
+        "3",
+        "5",
+        "more vocal variety!",
+        "Great job with the presentation."
+      ],
+      [
+        "9/25/2020 19:57:00",
+        "5",
+        "5",
+        "3",
+        "3",
+        "4",
+        "vocal variety",
+        "structure"
+      ],
+      [
+        "9/25/2020 20:12:51",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5"
+      ]
+    ]
+  }
+  

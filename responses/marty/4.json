@@ -1,78 +1,105 @@
 {
-  "range": "'Form Responses 1'!A1:J112",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "Timestamp",
-      "Did the speaker accurately convey the point of the speech?",
-      "How was the structure of the speech?",
-      "Did the speaker appear nervous?"
-    ],
-    [
-      "11/6/2020 19:42:28",
-      "3",
-      "4",
-      "4"
-    ],
-    [
-      "11/6/2020 19:42:28",
-      "5",
-      "5",
-      "5"
-    ],
-    [
-      "11/6/2020 19:42:31",
-      "4",
-      "4",
-      "4"
-    ],
-    [
-      "11/6/2020 19:42:34",
-      "5",
-      "5",
-      "5"
-    ],
-    [
-      "11/6/2020 19:42:40",
-      "4",
-      "5",
-      "5"
-    ],
-    [
-      "11/6/2020 19:42:41",
-      "4",
-      "5",
-      "5"
-    ],
-    [
-      "11/6/2020 19:42:42",
-      "5",
-      "5",
-      "5"
-    ],
-    [
-      "11/6/2020 19:42:48",
-      "5",
-      "5",
-      "5"
-    ],
-    [
-      "11/6/2020 19:42:55",
-      "5",
-      "5",
-      "4"
-    ],
-    [
-      "11/6/2020 19:43:26",
-      "5",
-      "4",
-      "5"
-    ],
-    [
-      "11/6/2020 19:43:27",
-      "5",
-      "5",
-      "5"
+    "range": "'Form Responses 1'!A1:O109",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "Were the two audience participation opportunities effective?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "9/4/2020 19:36:20",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Awesome speech!!, great structure"
+      ],
+      [
+        "9/4/2020 19:37:58",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "The closing should be like: \"The world is a better place if we all say what we mean, and mean what we say.\"",
+        "The audience engagement was good!"
+      ],
+      [
+        "9/4/2020 19:38:54",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5",
+        "5",
+        "",
+        "Confidence"
+      ],
+      [
+        "9/4/2020 19:39:26",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Killed it as usual!! "
+      ],
+      [
+        "9/4/2020 19:39:28",
+        "5",
+        "3",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Slow down at the places where you want to emphasize.",
+        "The interactions with the audience."
+      ],
+      [
+        "9/4/2020 19:39:52",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "4",
+        "How can you mix in a lil more tonality & or vocal variety throughout speech?   High, medium, & low tones...",
+        "Great topic chosen for speech objectives, good way to convey message with passion and confidence, liked how you were able to use the 'word of the day', & good use of hands along with no filler words."
+      ],
+      [
+        "9/4/2020 19:39:58",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "An example of the consequences of not saying what you mean might have been interesting",
+        "I liked that we can see you in this speech. Also, it was such a great speech because it was informative and you made your intent clear. You also encouraged the audience to participate and therefore kept us engaged in your speech. Always great to hear you speaking and cant wait for your next one!"
+      ],
+      [
+        "9/4/2020 19:40:05",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "5",
+        "",
+        "That was a great speech to make aware the intention of the speaker. Thanks!"
+      ]
     ]
-  ]
-}
+  }
+  

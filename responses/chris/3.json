@@ -1,0 +1,103 @@
+{
+    "range": "'Form Responses 1'!A1:N110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "5/7/2021 19:41:39",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "5/7/2021 19:41:39",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "5/7/2021 19:41:44",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "You are amazing!"
+      ],
+      [
+        "5/7/2021 19:42:00",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Great meaning to the speech and great hand gestures."
+      ],
+      [
+        "5/7/2021 19:42:24",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4",
+        "Use your low registers, too!",
+        "Phone miming is great!"
+      ],
+      [
+        "5/7/2021 19:42:39",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "I would love to see you branch out with your topic selection.",
+        "I loved that you stood up for the speech and you had great use of body language."
+      ],
+      [
+        "5/7/2021 19:43:11",
+        "5",
+        "5",
+        "5",
+        "4",
+        "4",
+        "a little bit nervous. I think it's a great idea to practice in the club for a couple of times. WE LOVED YOUR SPEECH!!!",
+        "your vocal variety. you played two roles in one speech!"
+      ],
+      [
+        "5/7/2021 19:43:16",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "H P P  - Hope has a \"p\" sound, amazing alliteration! I'm trying to find 3 Ps you can use.",
+        "Holy. Crap. The practice!!"
+      ],
+      [
+        "5/7/2021 19:50:33",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Great pacing, use of hands and body language; even better than the first time around. "
+      ]
+    ]
+  }
+  

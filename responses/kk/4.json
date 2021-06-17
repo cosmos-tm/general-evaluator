@@ -1,0 +1,140 @@
+{
+    "range": "'Form Responses 1'!A1:M115",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "7/10/2020 19:39:44",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "- Relatable quips to keep us engaged!\n- The exhaustive set of points that you covered"
+      ],
+      [
+        "7/10/2020 19:40:01",
+        "5",
+        "5",
+        "3",
+        "5",
+        "More vocal variety.",
+        "Good slides and research!"
+      ],
+      [
+        "7/10/2020 19:40:19",
+        "5",
+        "5",
+        "3",
+        "4",
+        "",
+        "forms matter"
+      ],
+      [
+        "7/10/2020 19:40:23",
+        "5",
+        "5",
+        "",
+        "5",
+        "",
+        "Great pacing! Really clear and easy to understand. Great structure. Composed and confident. Great job KK!"
+      ],
+      [
+        "7/10/2020 19:40:32",
+        "5",
+        "5",
+        "3",
+        "3"
+      ],
+      [
+        "7/10/2020 19:40:35",
+        "5",
+        "4",
+        "",
+        "5",
+        "The intro could have had funny slides, it seemed like the powerpoint was missing time.",
+        "The data!"
+      ],
+      [
+        "7/10/2020 19:40:45",
+        "5",
+        "5",
+        "",
+        "5",
+        "",
+        "the tips for starting running "
+      ],
+      [
+        "7/10/2020 19:40:54",
+        "5",
+        "5",
+        "3",
+        "5",
+        "Yould like to see hand gestures. But I guess that's hard to do when you are presenting something",
+        "You had great vocal variety! I liked how you acted like you were in pain"
+      ],
+      [
+        "7/10/2020 19:41:00",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Lots of looking for your notes. Maybe try placing the notes in front of monitor.",
+        "The information presented about running: the correct form, easy miles."
+      ],
+      [
+        "7/10/2020 19:41:07",
+        "5",
+        "5",
+        "",
+        "4",
+        "Powerpoint slides could be more simple ",
+        "Encouragement of running and the appropriate solutions for beginners  "
+      ],
+      [
+        "7/10/2020 19:41:28",
+        "5",
+        "5",
+        "3",
+        "5",
+        "Talk about potential running road blocks as help for doubters\nPrep tech before meeting",
+        "Chart visualizing your progress was excellent"
+      ],
+      [
+        "7/10/2020 19:42:04",
+        "4",
+        "4",
+        "3",
+        "5",
+        "It would have made your speech strong to sight a higher authority: like studies or prominent domain experts.",
+        "I liked that it was personal and was neat to see the data you used to track progress."
+      ],
+      [
+        "7/10/2020 20:07:23",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Maybe a few hand gestures or even a small demonstration of your running motion.",
+        "Personal story's are always the best when choosing a speech topic and you nailed that on the head with your topic today. Great use of slides, appreciate the content shared - very useful, and good way to interact with your audience in the beginning of your speech with questions."
+      ],
+      [
+        "7/11/2020 6:49:50",
+        "5",
+        "5",
+        "",
+        "5",
+        "Perhaps your video setting as you had light coming from the back which made it a bit difficult to see your face",
+        "The 3 actions items for a new runner or someone resuming running"
+      ]
+    ]
+  }
+  

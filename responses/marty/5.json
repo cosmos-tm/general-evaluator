@@ -1,0 +1,121 @@
+{
+    "range": "'Form Responses 1'!A1:P110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the statistics grab your attention?",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's volume variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "Do you feel you know Marty better through this speech?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "9/11/2020 19:42:09",
+        "Yes",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "Yes"
+      ],
+      [
+        "9/11/2020 19:42:16",
+        "Yes",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Yes"
+      ],
+      [
+        "9/11/2020 19:42:17",
+        "Yes",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Yes"
+      ],
+      [
+        "9/11/2020 19:42:57",
+        "Yes",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Maybe",
+        "",
+        "The enthusiasm and knowledge of the subject shown."
+      ],
+      [
+        "9/11/2020 19:43:04",
+        "Yes",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Yes",
+        "You were too far from the camera so hard to see hand gestures.",
+        "The statistics were surprising and the personal touch to the stories."
+      ],
+      [
+        "9/11/2020 19:43:12",
+        "Yes",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Yes",
+        "Possibly add more movements",
+        "Your reasonings were solid and clear."
+      ],
+      [
+        "9/11/2020 19:44:03",
+        "Yes",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Maybe",
+        "a bit closer to the camera ",
+        "great information, very clear. make me feel like need a mentor "
+      ],
+      [
+        "9/11/2020 19:53:55",
+        "Yes",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Yes",
+        "keep doing great and getting better",
+        "You're going to be a Great mentor - Awesome speech. Great camera positioning and we were able to see your hands a lil bit."
+      ],
+      [
+        "9/11/2020 20:04:53",
+        "Yes",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Maybe",
+        "Perhaps more detail of what specifically happened in your mentorship relationship and more details of the personal growth you've had from being mentored.",
+        "I really like your personal connection to the topic. It is clear you have a passion for mentoring: good job!"
+      ]
+    ]
+  }
+  

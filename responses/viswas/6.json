@@ -1,0 +1,103 @@
+{
+    "range": "'Form Responses 1'!A1:N110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "11/6/2020 19:33:47",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "11/6/2020 19:34:10",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Add more vocal variety and a bit of drama",
+        "The thoughtful stories."
+      ],
+      [
+        "11/6/2020 19:34:34",
+        "4",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Delivering positivity with more personal insights ",
+        "Great stories and structure "
+      ],
+      [
+        "11/6/2020 19:34:41",
+        "4",
+        "3",
+        "4",
+        "2",
+        "5",
+        "Use your hands and voice with more variety",
+        "Love the different sides of positivity!"
+      ],
+      [
+        "11/6/2020 19:35:14",
+        "3",
+        "3",
+        "4",
+        "4",
+        "5",
+        "I understand that this speech was last minute, but it was a little less interesting than your usual speeches :)",
+        "Jokes and anecdotes"
+      ],
+      [
+        "11/6/2020 19:35:58",
+        "3",
+        "2",
+        "2",
+        "2",
+        "3",
+        "I would recommend work on the structure of your speech, it meandered a bit and made discerning the call to action difficult.",
+        "I liked that ending. The drink may not drink tea, but drink Positivi Tea was very clever."
+      ],
+      [
+        "11/6/2020 19:36:33",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "What about mixing up your tones a lil bit?  Low, medium, & high tones throughout your speech.",
+        "Really liked the topic. Positivity is a must in our lives. Like how you used the WOD in your speech. & The audience interaction, ie. 'close eyes' to refocus. Good stuff"
+      ],
+      [
+        "11/6/2020 19:38:21",
+        "3",
+        "5",
+        "3",
+        "3",
+        "4"
+      ],
+      [
+        "11/6/2020 19:39:26",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Perhaps speak to a personal benefit you've received by being mindful and centered: did it make you more productive? Content even in the hardest times? ",
+        "I liked the topic! I'm all in on mindfulness; it makes a huge difference in my life. "
+      ]
+    ]
+  }
+  

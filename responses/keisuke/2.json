@@ -1,0 +1,123 @@
+{
+    "range": "'Form Responses 1'!A1:N112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/2/2021 19:43:04",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "4/2/2021 19:43:15",
+        "4",
+        "3",
+        "3",
+        "4",
+        "4"
+      ],
+      [
+        "4/2/2021 19:43:51",
+        "4",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Would have been nice to summarized your thoughts so you have a longer conclusion",
+        "Personal touch and share info about URI that I am not aware of."
+      ],
+      [
+        "4/2/2021 19:43:53",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "There was a lot of breathing fillers - fillers that happen when you aren't sure what to say, maybe focus on just breathing in instead :)",
+        "I liked the intro and the catch, that was good!"
+      ],
+      [
+        "4/2/2021 19:43:53",
+        "5",
+        "3",
+        "4",
+        "4",
+        "4",
+        "More structure to let the audience know what you'll be talking about throughout your speech",
+        "Humor and light-hearted style. I enjoyed hearing about RI!"
+      ],
+      [
+        "4/2/2021 19:43:54",
+        "5",
+        "3",
+        "3",
+        "4",
+        "5",
+        "Vocal variety",
+        "Your sadness about leaving Seattle"
+      ],
+      [
+        "4/2/2021 19:43:59",
+        "4",
+        "4",
+        "3",
+        "3",
+        "3",
+        "show some hand gestures  and share some pictures of rhode island",
+        "love the personal touch of the speech"
+      ],
+      [
+        "4/2/2021 19:44:24",
+        "4",
+        "3",
+        "4",
+        "2",
+        "3",
+        "",
+        "The differences between East Coast vs. West Coast"
+      ],
+      [
+        "4/2/2021 19:45:00",
+        "5",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Want to hear more about your life at Rhode Island what it makes special compared to other places ",
+        "Great conversational speech "
+      ],
+      [
+        "4/2/2021 20:00:06",
+        "3",
+        "4",
+        "5",
+        "4",
+        "3",
+        "Perhaps give a little more structure at the start with what is coming: I will be talking about three aspects of moving to Rhode Island",
+        "I really liked the personal details and the elements of the personal struggle you've had to overcome in your move.  Thank you."
+      ],
+      [
+        "4/2/2021 20:55:53",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "keep doing great and getting better.",
+        "the personal experience, observations of the differences in cities, eye contact with camera, examples shared,"
+      ]
+    ]
+  }
+  

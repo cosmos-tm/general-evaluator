@@ -1,0 +1,125 @@
+{
+    "range": "'Form Responses 1'!A1:N112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "3/12/2021 19:37:02",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Slow down a bit.",
+        "It was full of enthusiasm."
+      ],
+      [
+        "3/12/2021 19:37:14",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "3/12/2021 19:37:16",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Focus more on vocal variety and pacing",
+        "That you are so passionate"
+      ],
+      [
+        "3/12/2021 19:37:22",
+        "5",
+        "5",
+        "3",
+        "4",
+        "5",
+        "This speech begs for a slide or two...",
+        "Though you are covering dense subject matter, your effervescent personality shines through!"
+      ],
+      [
+        "3/12/2021 19:37:32",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Maybe be a bit further back so your hand gestures doesn't get cut off. Although you are very clear, you talk a bit on the fast side.",
+        "Very concise points and motivation to join the company"
+      ],
+      [
+        "3/12/2021 19:37:46",
+        "3",
+        "3",
+        "2",
+        "2",
+        "2",
+        "Slow Down, Also try giving more real world examples or use metaphors.",
+        "How happy you are where you landed."
+      ],
+      [
+        "3/12/2021 19:38:22",
+        "5",
+        "5",
+        "5",
+        "4",
+        "4",
+        "Slowing pace but overall it's good because you draw attention ",
+        "Learning about your company "
+      ],
+      [
+        "3/12/2021 19:39:02",
+        "5",
+        "5",
+        "3",
+        "4",
+        "4",
+        "Slides or visual aids would have helped map things out. In some cases, slowing down or varying vocal tones would also help convey some of the information.",
+        "You already seem like a SME, and are clearly passionate about advancing in this company. Looking forward to the second iteration of this speech!"
+      ],
+      [
+        "3/12/2021 19:39:34",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Perhaps find a way to get your audience to particiate: eg \"How many of you have had to use a HR resource? Did you have a thumbs up or down experience?\" ",
+        "Great speech! I use Embark to ramp-up new employees. Its is actually useful"
+      ],
+      [
+        "3/12/2021 19:44:10",
+        "4",
+        "4",
+        "3",
+        "4",
+        "3",
+        "Slow down just a tad... & could you have mixed up your tones some?",
+        "Excellent energy, knowledge of the subject, content, eye contact with camera, excellent and effective use of your background, along with asking for feedback at the end of your speech, and letting us know that you'll be having a follow-up speech to this one."
+      ],
+      [
+        "3/12/2021 19:44:59",
+        "4",
+        "3",
+        "3",
+        "2",
+        "4",
+        "Slow down; connect more with the camera (audience); a few slides would be nice",
+        "I most enjoyed your passion for the next steps in your career. "
+      ]
+    ]
+  }
+  

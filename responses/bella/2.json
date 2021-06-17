@@ -1,0 +1,151 @@
+{
+    "range": "'Form Responses 1'!A1:N115",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "9/18/2020 19:49:03",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "9/18/2020 19:49:07",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Not a lot - camera was too close to see your hand gestures. ",
+        "I love the information about your country and your village. "
+      ],
+      [
+        "9/18/2020 19:49:23",
+        "4",
+        "5",
+        "4",
+        "3",
+        "4"
+      ],
+      [
+        "9/18/2020 19:49:44",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "9/18/2020 19:49:52",
+        "4",
+        "3",
+        "4",
+        "4",
+        "5",
+        "Technology usage could be more smooth.",
+        "Sardonic humor was just what I needed."
+      ],
+      [
+        "9/18/2020 19:49:57",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4",
+        "The time gap when introducing the slides may be reduced.",
+        "Positiveness. "
+      ],
+      [
+        "9/18/2020 19:49:58",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "It wasn't clear what the main points are although the stories were good, not sure if there was suppose to be an audience take away",
+        "Enjoy the stories and visuals, really add to the point of people liking mahjong"
+      ],
+      [
+        "9/18/2020 19:49:58",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4",
+        "Be aware of transitions between speaking and sharing your screen. Try and make them smoother",
+        "You shared your beautiful culture. It was funny, optimistic and well structured. "
+      ],
+      [
+        "9/18/2020 19:50:01",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "You nailed the objective of this speech! You left us with a positive message, and expertly tied the beginning back into the end of the speech. Well done Bella!"
+      ],
+      [
+        "9/18/2020 19:50:07",
+        "4",
+        "3",
+        "5",
+        "5",
+        "5",
+        "You could've summarized at the end what the two things that you have in common with them are. I sort of lost track of which of those points was demonstrated by Mahjong and which by coping with earthquakes :)",
+        "An insightful window into the life of Sichuan!"
+      ],
+      [
+        "9/18/2020 19:50:09",
+        "5",
+        "4",
+        "4",
+        "3",
+        "4",
+        "For transitions keep talking about something until the next part starts",
+        "I liked the stories about what to choose during a pandemic and earthquake"
+      ],
+      [
+        "9/18/2020 19:50:11",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4",
+        "love",
+        "love 麻將"
+      ],
+      [
+        "9/18/2020 19:50:32",
+        "5",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Perhaps give a little history of Szechwan people; was there a struggle long ago that defined their character.",
+        "I liked you jokes and funny anecdotes"
+      ],
+      [
+        "9/18/2020 19:53:13",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Could you have done this speech from a certain distance to show you hand gestures and movements a lil more?",
+        "Great topic. Like how you were able to toggle your screens throughout speech, ie. sharing your screen, then back to you, back to sharing, and back to you close your speech. Nice!    "
+      ]
+    ]
+  }
+  

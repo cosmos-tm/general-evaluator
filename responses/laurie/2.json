@@ -1,0 +1,167 @@
+{
+    "range": "'Form Responses 1'!A1:N117",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "10/23/2020 19:34:55",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "10/23/2020 19:34:56",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Story and message."
+      ],
+      [
+        "10/23/2020 19:34:57",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "10/23/2020 19:34:58",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5"
+      ],
+      [
+        "10/23/2020 19:35:06",
+        "5",
+        "4",
+        "5",
+        "4",
+        "4"
+      ],
+      [
+        "10/23/2020 19:35:08",
+        "5",
+        "5",
+        "5",
+        "4",
+        "4"
+      ],
+      [
+        "10/23/2020 19:35:18",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "notthing",
+        "emotional "
+      ],
+      [
+        "10/23/2020 19:35:44",
+        "5",
+        "5",
+        "5",
+        "4",
+        "4",
+        "None, great story!",
+        "The story was awesome, not a lot of people will ever have that kind of story"
+      ],
+      [
+        "10/23/2020 19:35:48",
+        "5",
+        "4",
+        "5",
+        "3",
+        "5",
+        "Use more gestures; Include more personal aspects; How does all this shape you now.",
+        "The message and insight."
+      ],
+      [
+        "10/23/2020 19:35:49",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Nothing I can think of!",
+        "It was a gripping story -- and you told it really well. "
+      ],
+      [
+        "10/23/2020 19:36:16",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Not much opportunities for improvement, just some pauses if I had to say",
+        "Great speech, and you're very good at story telling and conveying emotion. Definitely grabbed your audience's attention throughout. Great structure and rarely used any filler words!"
+      ],
+      [
+        "10/23/2020 19:36:40",
+        "5",
+        "4",
+        "4",
+        "2",
+        "2",
+        "Maybe tune the grammar a little bit",
+        "I really like the ending of the speech where life is honored and cherished."
+      ],
+      [
+        "10/23/2020 19:36:49",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Perhaps if you showed a time-line and/or map it would help place your experiences in time and space.",
+        "Interesting to hear your experience at the epicenter of a huge historic event. Thanks for sharing!"
+      ],
+      [
+        "10/23/2020 19:45:01",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Could add some hand gestures to the speech since you stood far enough. Would consider saying the city in more english way for non chinese speakers.",
+        "Great story with a lot of visuals, which is easy to follow"
+      ],
+      [
+        "10/23/2020 19:45:27",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "Could you have engaged the audience some with a few questions?",
+        "Very heart felt story of your real life experience living in the center of the pandemic. Glad you were safe"
+      ],
+      [
+        "10/23/2020 21:21:28",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "I had to let you know you did an awesome job that i absolutely forgot i need to get myself ready for my speech. i was so into it! All experiences are treasure. You should definitely be proud of yourself. Thanks for sharing this personal and touching story!!"
+      ]
+    ]
+  }
+  

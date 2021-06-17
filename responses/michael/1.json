@@ -1,0 +1,112 @@
+{
+  "range": "'Form Responses 1'!A1:N111",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Timestamp",
+      "Did the speaker accurately convey the point of the speech?",
+      "How was the structure of the speech?",
+      "How was the speaker's vocal variety?",
+      "How were the speaker's hand gestures?",
+      "Did the speaker appear nervous?",
+      "What are some opportunities for improvement? ",
+      "What was the best part about the speech?"
+    ],
+    [
+      "5/29/2020 19:44:05",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "Try using volume to your advantage. When you talked about wanting to spend time in the airport to present a positive image of Nigerian men, you could have used loudness to punctuate. ",
+      "Your insertion of the word of the day was impressive. Additionally, your candor and vulnerability were compelling. I feel like I know you a little better through what you shared. : )"
+    ],
+    [
+      "5/29/2020 19:44:13",
+      "5",
+      "5",
+      "5",
+      "5",
+      "3"
+    ],
+    [
+      "5/29/2020 19:44:20",
+      "5",
+      "5",
+      "5",
+      "5",
+      "3"
+    ],
+    [
+      "5/29/2020 19:44:21",
+      "4",
+      "3",
+      "4",
+      "5",
+      "5",
+      "",
+      "Slides"
+    ],
+    [
+      "5/29/2020 19:44:37",
+      "5",
+      "2",
+      "5",
+      "5",
+      "5",
+      "Can put more vocal variety in the speech especially when you were talking about the airport story.",
+      "Love the intro to get everyone to see their conscious bias "
+    ],
+    [
+      "5/29/2020 19:44:38",
+      "5",
+      "5",
+      "5",
+      "4",
+      "5",
+      "",
+      "The message. You talked about great points for mitigating the problem as well! In addition to explaining the problem well "
+    ],
+    [
+      "5/29/2020 19:45:05",
+      "5",
+      "4",
+      "5",
+      "5",
+      "5",
+      "Perhaps incorporate a higher authority like details of studies or papers on the topic.",
+      "I liked your personal anecdotes, it was really compelling."
+    ],
+    [
+      "5/29/2020 19:45:12",
+      "5",
+      "4",
+      "4",
+      "5",
+      "5",
+      "the ending seem a little abrupt but I understand that the time was running out.",
+      "your personal experience of biases so that more people are aware of their unconscious bias."
+    ],
+    [
+      "5/29/2020 19:47:06",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "",
+      "very sincere and well structured & worded, I am so moved and persuaded by the speech. "
+    ],
+    [
+      "5/29/2020 20:05:33",
+      "5",
+      "4",
+      "5",
+      "5",
+      "5",
+      "You have the ability to present, use them more :).",
+      "It is a very relevant topic! "
+    ]
+  ]
+}

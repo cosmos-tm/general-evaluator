@@ -1,0 +1,142 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "11/13/2020 19:30:55",
+        "3",
+        "3",
+        "3",
+        "3",
+        "4"
+      ],
+      [
+        "11/13/2020 19:31:09",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5"
+      ],
+      [
+        "11/13/2020 19:31:20",
+        "4",
+        "4",
+        "4",
+        "5",
+        "5",
+        "",
+        "Good hand gesture! "
+      ],
+      [
+        "11/13/2020 19:31:49",
+        "4",
+        "5",
+        "3",
+        "4",
+        "5",
+        "Nice to talk about why you want to be a leader in tech.",
+        "the 5 I's were easy to remember and had examples."
+      ],
+      [
+        "11/13/2020 19:31:50",
+        "4",
+        "3",
+        "3",
+        "4",
+        "5",
+        "Speak more slowly and enunciate.",
+        "The five Is were clever!"
+      ],
+      [
+        "11/13/2020 19:32:01",
+        "5",
+        "3",
+        "4",
+        "4",
+        "5",
+        "",
+        "Enthusiasm"
+      ],
+      [
+        "11/13/2020 19:32:05",
+        "4",
+        "4",
+        "3",
+        "5",
+        "5",
+        "vocal variety, time management",
+        "personal experience"
+      ],
+      [
+        "11/13/2020 19:32:13",
+        "5",
+        "5",
+        "2",
+        "2",
+        "3",
+        "I think we might struggle in similar areas of sounding confident and vocal fluency/flow. With practice this will definately improve for you and I noticed moments where this was not an issue during your speech! I've been reading/recording myself and this seems to have helped!",
+        "content!"
+      ],
+      [
+        "11/13/2020 19:32:15",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "I'd like to hear more about your personal experience working in Tech and the challenges that you have faced "
+      ],
+      [
+        "11/13/2020 19:32:19",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "I think you can work on your structure. Shorten your intro, make it more impactful",
+        "The 3 Is, you gave a good example"
+      ],
+      [
+        "11/13/2020 19:33:13",
+        "2",
+        "3",
+        "3",
+        "2",
+        "3",
+        "zero in with example",
+        "knowledge of topic"
+      ],
+      [
+        "11/13/2020 19:33:18",
+        "5",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Hand motions were somewhat repetitive, maybe switch things up a bit. Find a way to engage the audience. ",
+        "The content was presented clearly and concisely. "
+      ],
+      [
+        "11/13/2020 19:50:35",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "What are some of the areas you see that Tech can be improved?",
+        "Great hand movements throughout speech, eye contact with the camera, awesome topic, great energy throughout your speech, &  really liked your topic!"
+      ]
+    ]
+  }
+  

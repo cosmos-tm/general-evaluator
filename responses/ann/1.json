@@ -1,0 +1,142 @@
+{
+  "range": "'Form Responses 1'!A1:N114",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Timestamp",
+      "Did the speaker appear nervous?",
+      "How were the speaker's hand gestures?",
+      "How was the structure of the speech?",
+      "Did the speaker accurately convey the point of the speech?",
+      "How was the speaker's vocal variety?",
+      "What are some opportunities for improvement? ",
+      "What was the best part about the speech?"
+    ],
+    [
+      "5/29/2020 19:32:57",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "",
+      "Great eye contact, smart use of word of the day, Great speech structure, You had a calm demeanor. You are an excellent communicator, great hand gestures"
+    ],
+    [
+      "5/29/2020 19:33:37",
+      "5",
+      "4",
+      "5",
+      "5",
+      "5"
+    ],
+    [
+      "5/29/2020 19:33:54",
+      "4",
+      "5",
+      "5",
+      "5",
+      "5",
+      "Make it more fluent",
+      "Inspiring"
+    ],
+    [
+      "5/29/2020 19:34:04",
+      "5",
+      "5",
+      "5",
+      "5",
+      "3"
+    ],
+    [
+      "5/29/2020 19:34:25",
+      "5",
+      "4",
+      "5",
+      "5",
+      "4",
+      "Less unintentional pausing!",
+      "The silver linings of a worldwide health crisis :)"
+    ],
+    [
+      "5/29/2020 19:34:30",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "Next time, try some more audience engagement. This speech had a lot of scope for it :)",
+      "Thought about all aspects of the topic.. had some great points!"
+    ],
+    [
+      "5/29/2020 19:34:31",
+      "4",
+      "5",
+      "5",
+      "5",
+      "5",
+      "",
+      "Like watching news reporter. Very sincerely and clearly. \nGood use of hand gestures.\nLike you eye contact, you memorize the script and look right into the camera.\n"
+    ],
+    [
+      "5/29/2020 19:34:33",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "Maybe just slowdown some and become the speech",
+      "topic, great use of the word of the day, information was excellent"
+    ],
+    [
+      "5/29/2020 19:34:38",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "Vary your volume and tone for added vocal interest. ",
+      "The hand gestures counting down the speech’s points was great!"
+    ],
+    [
+      "5/29/2020 19:34:43",
+      "5",
+      "4",
+      "5",
+      "5",
+      "4",
+      "Perhaps have ended the talk with a personal note, that was very effective at the start.",
+      "Good examples and clearly something that has affected you personally."
+    ],
+    [
+      "5/29/2020 19:34:59",
+      "5",
+      "4",
+      "5",
+      "5",
+      "4",
+      "Seems like you had 3 points for the positive side of corona, but much focus has been around global warming ",
+      "Great spin on a the topic"
+    ],
+    [
+      "5/29/2020 19:35:13",
+      "4",
+      "4",
+      "4",
+      "5",
+      "5",
+      "",
+      "Alignment to today's topic"
+    ],
+    [
+      "5/29/2020 19:50:46",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "",
+      "inform and remind us about the silver lining of the tough COVID time, encourage us to hang in together to go through this. "
+    ]
+  ]
+}

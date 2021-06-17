@@ -1,0 +1,144 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "6/19/2020 19:35:23",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "Try using loud, soft, fast, and slow to vary vocal variety. ",
+        "Presentation animations were excellent!"
+      ],
+      [
+        "6/19/2020 19:35:29",
+        "5",
+        "5",
+        "3",
+        "5",
+        "4",
+        "Clean up the background prior to presenting :). It helps keep people from getting distracted by looking at file names.",
+        "The detailed possibilties!"
+      ],
+      [
+        "6/19/2020 19:35:40",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "",
+        "Well designed speech w/ great integration of visual aids!!"
+      ],
+      [
+        "6/19/2020 19:35:43",
+        "4",
+        "5",
+        "4",
+        "5",
+        "5"
+      ],
+      [
+        "6/19/2020 19:36:04",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5",
+        "I feel like for the sake of time you could focus on 2-3 points. ",
+        "Inspiring speech! Makes me wanna buy the house. "
+      ],
+      [
+        "6/19/2020 19:36:09",
+        "5",
+        "5",
+        "3",
+        "3",
+        "4",
+        "",
+        "The cool demos!"
+      ],
+      [
+        "6/19/2020 19:36:21",
+        "4",
+        "5",
+        "3",
+        "3",
+        "5",
+        "Might have been nice to add a personal touch to which one you like more.",
+        "The categorization of your speech by type of architecture design. And the use of image and videos."
+      ],
+      [
+        "6/19/2020 19:36:23",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5",
+        "Add more vocal variety and gestures.",
+        "Information conveyed -- and the structure. Great slide deck."
+      ],
+      [
+        "6/19/2020 19:36:32",
+        "5",
+        "3",
+        "4",
+        "5",
+        "5",
+        "",
+        "Awesome topic selection! And delivery too! Thanks for introducing us to a lot of new concepts in architecture "
+      ],
+      [
+        "6/19/2020 19:36:42",
+        "5",
+        "4",
+        "4",
+        "5",
+        "3",
+        "Title the slides"
+      ],
+      [
+        "6/19/2020 19:36:57",
+        "5",
+        "4",
+        "2",
+        "3",
+        "5",
+        "I liked how you engaged the audience with the drawing at the start but it was not a consistent theme through the talk.",
+        "Neat information, good visuals!"
+      ],
+      [
+        "6/19/2020 19:36:59",
+        "4",
+        "3",
+        "4",
+        "3",
+        "5",
+        "Ending seemed abrupt and did not tie back to the intro topic",
+        "Very informative presentation of architecture."
+      ],
+      [
+        "6/19/2020 19:38:27",
+        "4",
+        "4",
+        "5",
+        "3",
+        "5",
+        "the beginning is great, but it will be even better if the beginning connected more to the three ideas introduced in body paragraph ",
+        "the PPT visualized the architectures ideas introduced in the speech amazingly"
+      ]
+    ]
+  }
+  

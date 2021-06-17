@@ -1,0 +1,145 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "3/5/2021 19:36:42",
+        "4",
+        "3",
+        "4",
+        "3",
+        "4",
+        "Avoid boiling the ocean by talking about too many styles.",
+        "I enjoyed that you asked questions at the end to draw the audience in."
+      ],
+      [
+        "3/5/2021 19:37:27",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "3/5/2021 19:38:15",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5",
+        "vocal variety and hand gestures since this was an interesting topic",
+        "I love this topic and you structured the points very well! Very interesting and great speech."
+      ],
+      [
+        "3/5/2021 19:38:18",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4",
+        "Hand gesture could be improved though it was really nice organized speech. ",
+        "Clarity"
+      ],
+      [
+        "3/5/2021 19:38:19",
+        "3",
+        "3",
+        "3",
+        "3",
+        "4",
+        "Vocal variety, examples ",
+        "Your impression on the styles"
+      ],
+      [
+        "3/5/2021 19:38:28",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Test out the slides earlier, didn't see much hand gesture since you were really close to the screen",
+        "Ability to make quick decision to go without the slides, provided example of each leadership style and motivation summary."
+      ],
+      [
+        "3/5/2021 19:38:30",
+        "4",
+        "3",
+        "2",
+        "2",
+        "3",
+        "Make the speech more about yourself! Could've been more engaging that way",
+        "The comprehensive coverage it points"
+      ],
+      [
+        "3/5/2021 19:38:57",
+        "5",
+        "4",
+        "3",
+        "1",
+        "5",
+        "Slides would have helped as would examples of leaders that exhibit the styles described.",
+        "So much good information about leadership!"
+      ],
+      [
+        "3/5/2021 19:40:16",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Perhaps more stories about your leadership examples?",
+        "Good analytical speech!!! "
+      ],
+      [
+        "3/5/2021 19:40:28",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Could you have mixed up your tones some when describing the different leadership styles?  ",
+        "Excellent content shared with the audience. Like the audience engagement at the start of the speech. Good eye contact and confidence in topic."
+      ],
+      [
+        "3/5/2021 19:40:44",
+        "5",
+        "3",
+        "4",
+        "4",
+        "4",
+        "Have practiced with the computer/set-up before hand. ",
+        "I liked all the leadership styles you discussed and how you brought in your personal preferences for your leadership style"
+      ],
+      [
+        "3/5/2021 19:40:53",
+        "4",
+        "3",
+        "3",
+        "2",
+        "3",
+        "Though hard in zoom, I think eye contact could be less sporadic and more focused",
+        "The last 30 seconds were great. Good summary and well put together."
+      ],
+      [
+        "3/5/2021 19:45:13",
+        "4",
+        "4",
+        "3",
+        "2",
+        "4",
+        "Use more pauses. Move back from screen as body language could've been hidden",
+        "Covered different aspects of leadership, tied in all stories very nicely."
+      ]
+    ]
+  }
+  

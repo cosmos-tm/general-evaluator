@@ -1,0 +1,132 @@
+{
+    "range": "'Form Responses 1'!A1:N113",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "10/9/2020 19:49:48",
+        "4",
+        "5",
+        "3",
+        "4",
+        "5",
+        "Can act out your favourite part of game of thrones, good way to add in vocal variety",
+        "Having music and getting people involved in the speech"
+      ],
+      [
+        "10/9/2020 19:49:53",
+        "4",
+        "4",
+        "3",
+        "2",
+        "5",
+        "Vocal variation",
+        "Use word of the day"
+      ],
+      [
+        "10/9/2020 19:49:54",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "how you tied it in the end to giving speeches at toastmasters"
+      ],
+      [
+        "10/9/2020 19:49:56",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "10/9/2020 19:50:00",
+        "4",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Video stopped occasionally (thought not ciriticaly) . I wonder if anything could be done.",
+        "Story and confidence."
+      ],
+      [
+        "10/9/2020 19:50:02",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4",
+        "",
+        "That you incorporated Wing's comment about learning styles into your speech on the spot!"
+      ],
+      [
+        "10/9/2020 19:50:07",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "pictures would be helpful to audiences who don't watch the show"
+      ],
+      [
+        "10/9/2020 19:50:13",
+        "5",
+        "3",
+        "4",
+        "5",
+        "5",
+        "loved background but more graphics througout would keep the audiences attention better",
+        "loved the end point, and beginning with the throne background"
+      ],
+      [
+        "10/9/2020 19:50:15",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "10/9/2020 19:50:16",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Really well done Viswas! You were of course thorough about the topic. I liked how you used examples of Gavin and Hannah. "
+      ],
+      [
+        "10/9/2020 19:50:23",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Hard to think of anything. It was really good. Maybe a little more expression. I could see some, but there's still room for improvement",
+        "Engaging the audience, relatable speech. Interesting and surprising topic!"
+      ],
+      [
+        "10/9/2020 19:50:42",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "i see lot of improvement of your",
+        "GOT"
+      ]
+    ]
+  }
+  

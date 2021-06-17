@@ -1,0 +1,94 @@
+{
+    "range": "'Form Responses 1'!A1:N109",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "3/26/2021 19:30:02",
+        "3",
+        "3",
+        "5",
+        "4",
+        "5",
+        "Leave a closed loop speech with a moral for this type of story",
+        "The interesting part about linking taxes and robinhood"
+      ],
+      [
+        "3/26/2021 19:30:12",
+        "4",
+        "3",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "3/26/2021 19:30:24",
+        "4",
+        "3",
+        "5",
+        "3",
+        "5",
+        "",
+        "Your personal connection to the subject matter."
+      ],
+      [
+        "3/26/2021 19:30:31",
+        "3",
+        "3",
+        "5",
+        "4",
+        "5",
+        "It started great but then it got hard to follow the structure of the speech or what it was about in the end",
+        "The beginning of the speech really drew me in"
+      ],
+      [
+        "3/26/2021 19:30:32",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Didn't see hand gesture since you were fairly close to the screen",
+        "Love the story of robinhood"
+      ],
+      [
+        "3/26/2021 19:30:46",
+        "5",
+        "5",
+        "3",
+        "5",
+        "5",
+        "I would say vocal variety would be the area of improvement. You changed your tone, but didn't maybe needed more emotion behind the speech. "
+      ],
+      [
+        "3/26/2021 19:30:49",
+        "3",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Perhaps you could have extended your story. It was interesting.",
+        "I liked that you talked about your childhood experiences "
+      ],
+      [
+        "3/26/2021 19:31:12",
+        "2",
+        "4",
+        "5",
+        "4",
+        "5",
+        "More connection between the archery and the taxes theme",
+        "Your vivid childhood memories nicely captured the moment in time\n"
+      ]
+    ]
+  }
+  

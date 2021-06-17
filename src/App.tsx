@@ -1,153 +1,284 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import {TextField, ITextFieldStyles, Label, DefaultButton} from '@fluentui/react';
-// import OptionsCallout from './OptionsCallout';
-import Graph from './Graph';
-import PivotControl from './PivotControl';
-// import SearchResults from './SearchResults'
-import VanillaSearchComponent from './VanillaSearchComponent';
-import { SearchBox } from 'office-ui-fabric-react/lib/SearchBox';
+import styles from './Logo.module.css'
+import { Label, initializeIcons, IStyleSet, ILabelStyles, Modal, IconButton, IIconProps, IButtonStyles} from '@fluentui/react';
+import MemberDropDown from './MemberDropDown'
+import { Line } from "react-chartjs-2";
+import {  backend, users } from './constants';
+import FeedbackNotes from './FeedbackNotes';
 
 interface IAppState {
-  showUsers: boolean;
-  targetElement: any;
-  isGraphVisible: boolean;
-  textFieldValue: string | undefined;
-  keyCount: number;
+  data: any;
+  currentUserIndex: number | undefined;
+  showModal: boolean;
+  speechNumber: number;
 }
 
-const users = ['Aaron Nakamura-Weiser', 'Aftab Hassan', 'Alex Hoff', 'Ann Ly', 
-'Bella Li', 'Betty Siewert', 'Christopher Rahla', 'Eldon L. Vincent', 'Gavin Britto', 'Grant Hsu', 
-'Hannah Jang', 'Ime Ntekpere', 'Jie (Laurie) Zhang', 'Kang Kai Chow', 'Keisuke Inomura', 'KiBeom Kwon', 
-'Kimmie Feng', 'Maciej Fronczuk', 'Margaret Tarnawa', 'Marty Varela', 'Matt Green', 'Mauricio Laine', 'Michael Umeano', 
-'Narendra kumar Sampath kumar', 'Natraj Jaganmohan', 'Neeraja Abhyankar', 'Sachin Nayak', 'Sam Byrne', 'Tao Guo', 
-'Tessara Smith', 'Viswas Vanama', 'Wing Huang'];
+function getDataPoints(userIndex: number, metric: number) {
+  const memberData = backend[userIndex];
+  const metricData = (memberData as any)[metric];
+  return metricData;
+}
+
+function getComments(userIndex: number, metric: number, speechNumber: number) {
+  const memberData = backend[userIndex];
+  const speechData = (memberData as any)[metric][speechNumber];
+  return speechData;
+}
+
+function getSpeechCount(userIndex: number | undefined) {
+  if(!userIndex) {
+    return undefined;
+  }
+
+  const memberData = backend[userIndex];
+  let speechCount = 0;
+  for(let i=0;i<6;i++) {
+    speechCount = Math.max(speechCount, (memberData as any)[i].length);
+  }
+
+  return speechCount;
+}
+
+function getLabels(userIndex: number) {
+  const labels = [];
+  // const memberData = backend[userIndex];
+  // let speechCount = 0;
+  // for(let i=0;i<6;i++) {
+  //   speechCount = Math.max(speechCount, (memberData as any)[i].length);
+  // }
+
+  const speechCount = getSpeechCount(userIndex);
+  if(speechCount) {
+    for(let i = 0;i<speechCount;i++) {
+      labels.push("Speech " + (i+1));
+    }
+  }
+
+  return labels;
+}
 
 class App extends React.Component<{}, IAppState> {
-
-  private matches: string[] = [];
-
   constructor(props: any) {
     super(props);
 
     this.state = {
-      showUsers: false,
-      targetElement: undefined,
-      isGraphVisible: true,
-      textFieldValue: '',
-      keyCount: 0
-    }
-  }
-
-  private textFieldStyles: Partial<ITextFieldStyles> = {
-    root: {
-      width: '500px',
-    }, 
-    fieldGroup: {
-      backgroundColor: 'aqua',
+      data: undefined,
+      currentUserIndex: undefined,
+      showModal: false,
+      speechNumber: -1
     }
   }
 
   public componentDidMount() {
-    const textField = document.getElementById('searchTextField');
-    if(textField) {
-      textField.focus();
-    }
+    
   }
 
   public componentDidUpdate() {
-    const textField = document.getElementById('searchTextField');
-    if(textField) {
-      textField.focus();
+  }
+
+  private options = {
+    legend: {
+      position: "right",
+      labels: {
+        boxWidth: 10
+      }
+    },
+    scales: {
+      xAxes: [
+        {
+          ticks: { display: false }
+        }
+      ]
+    },
+    onClick: (e: any, element: any) => {
+      if (element.length > 0) {
+        const speechNumber = element[0]._index;
+        this.setState({
+          speechNumber: speechNumber,
+          showModal: true
+        })
+      }
+    },
+  };
+
+  private cancelIcon: IIconProps = { iconName: 'Cancel' };
+
+  private iconButtonStyles: Partial<IButtonStyles> = {
+    root: {
+      // color: theme.palette.neutralPrimary,
+      marginLeft: 'auto',
+      marginTop: '4px',
+      marginRight: '2px',
+    },
+    rootHovered: {
+      // color: theme.palette.neutralDark,
+    },
+  };
+
+  private _getSelectedMember = (userSelected: any) => {
+    const userIndex = this.findUserIndex(userSelected.key);
+
+    const data = {
+      labels: getLabels(userIndex),
+      //backgroundColor: ['rgba(255,0,0,1)'],
+      //lineTension: 1,
+      datasets: [
+        {
+          label: "Idea",
+          fill: false,
+          borderColor: "brown",
+          borderWidth: 2,
+          pointRadius: 10,
+          pointHoverRadius: 11,
+          data: getDataPoints(userIndex, 0)
+        },
+        {
+          label: "Structure",
+          fill: false,
+          borderColor: "rgba(0, 255, 0, 0.3)",
+          borderWidth: 2,
+          pointRadius: 10,
+          pointHoverRadius: 11,
+          data: getDataPoints(userIndex, 1)
+        },
+        {
+          label: "Vocal",
+          fill: false,
+          borderColor: "seagreen",
+          borderWidth: 2,
+          pointRadius: 10,
+          pointHoverRadius: 11,
+          data: getDataPoints(userIndex, 2)
+        },
+        {
+          label: "Gestures",
+          fill: false,
+          borderColor: "salmon",
+          borderWidth: 2,
+          pointRadius: 10,
+          pointHoverRadius: 11,
+          data: getDataPoints(userIndex, 3)
+        },
+        {
+          label: "Nerves",
+          fill: false,
+          borderColor: "royalblue",
+          borderWidth: 2,
+          pointRadius: 10,
+          pointHoverRadius: 11,
+          data: getDataPoints(userIndex, 4)
+        }
+      ]
     }
+
+    this.setState({
+      data: data,
+      currentUserIndex: userIndex,
+    })
   }
 
   public render() {
+    initializeIcons();
+
+    const speechCount = getSpeechCount(this.state.currentUserIndex);
+
     return (
         <>
-          <div className="App">
-            <div className="cosmosLogo"><Label styles={{"root":{color:"white", fontSize: "30px"}}}>Cosmos</Label></div>  
-            <div className="generalEvaluatorLogo"><Label styles={{"root":{color:"white", fontSize: "20px"}}}>General Evaluator</Label></div>  
-            <TextField autoComplete={'off'} id={'searchTextField'} onChange={this.onChangeHandler} onKeyDown={this.onKeyDownHandler} /* styles={{"root":{height: 18}}} */ className="textFieldStyles" />
-            {/* <SearchBox className="textFieldStyles" placeholder="Search" onSearch={newValue => console.log('value is ' + newValue)} /> */}
-            {/* <DefaultButton styles={{"root":{backgroundColor: '#034694'}}}>?</DefaultButton> */}
-            <div></div>
+          <div className={styles.banner}>
+              <div className={styles.cosmos}>
+                Cosmos
+              </div>
+              <div className={styles.superEvaluator}>
+                Super Evaluator
+              </div>
           </div>
 
-          {!this.state.isGraphVisible ? <div /* className="vanllasearchcomponent" */>
-            <VanillaSearchComponent onClickHandler={this.onClickHandlerOfSearchComponent} keyCount={this.state.keyCount} prefix={this.state.textFieldValue}/>
-          </div>: undefined}
-          
-          {this.state.textFieldValue?.length!==0 ? (<div style={{position: "absolute", top: 80, left: 100}}>
-            <Label styles={{"root":{top:"50px", fontSize: "20px", fontWeight: "300"}}}>Showing feedback for {this.matches[this.state.keyCount]}</Label>
-          </div>):(<div style={{position: "absolute", top: 80, left: 100}}>
-            <Label styles={{"root":{top:"50px", fontSize: "20px", fontWeight: "300"}}}>Showing feedback for all speeches at Cosmos starting May 2020</Label>
-          </div>)}
-          
-          {this.state.isGraphVisible ? (<div className="pivotContainer">
-            <PivotControl keyCount={this.state.keyCount} user={this.matches[this.state.keyCount]}/>
-          </div>):(<div className="pivotContainerWithOpacity">
-            <PivotControl keyCount={this.state.keyCount} user={this.matches[this.state.keyCount]}/>
-          </div>)}
+          <div className={this.state.currentUserIndex ? styles.header : styles.dropdownincenter}>
+            <div className={styles.dropdowncontainer}>
+              <div>
+                Select member
+              </div>
+              <div className={styles.dropdown}>
+                <MemberDropDown getSelectedMember={this._getSelectedMember} />
+              </div>
+              {this.state.currentUserIndex && <div className={styles.dropdown}>
+                and click bubbles below to see speech feedback
+              </div>}
+            </div>
+
+            {this.state.currentUserIndex  && speechCount &&
+              <div>
+                Showing feedback for {users[this.state.currentUserIndex]}
+                {(speechCount === 1) && 
+                  <span style={{marginLeft: '20px'}}>
+                    {speechCount} speech since June 2020 
+                  </span>
+                }
+                {(speechCount > 1) &&
+                  <span style={{marginLeft: '20px'}}>
+                    {speechCount} speeches since June 2020 
+                  </span>
+                }
+              </div>
+            }
+          </div>
+
+          {this.state.currentUserIndex && 
+            <>
+              <div className={styles.graph}>
+                <div className={styles.yAxis}>
+                  Points
+                </div>
+                <Line data={this.state.data} options={this.options} />
+              </div>
+              <div className={styles.xAxis}>
+                Speeches
+              </div>
+            </>
+          }
+
+          <Modal
+            // titleAriaId={titleId}
+            isOpen={this.state.showModal}
+            onDismiss={this.hideModal}
+            isBlocking={false}
+            // containerClassName={contentStyles.container}
+            // dragOptions={isDraggable ? dragOptions : undefined}
+          >
+            <div /* className={contentStyles.header} */>
+              {/* <span id={titleId}>Lorem Ipsum</span> */}
+              <IconButton
+                styles={this.iconButtonStyles}
+                iconProps={this.cancelIcon}
+                ariaLabel="Close popup modal"
+                onClick={this.hideModal}
+              />
+            </div>
+            {this.state.data && this.state.currentUserIndex && <FeedbackNotes positive={getComments(this.state.currentUserIndex, 5, this.state.speechNumber)} negative={getComments(this.state.currentUserIndex, 6, this.state.speechNumber)}/> }
+          </Modal>
+
+          {/* <div className={styles.footer}>
+
+          </div> */}
         </>
         );
-  }
+    }
 
-  private onClickHandlerOfSearchComponent = (ev: any, keyCountToSet: number) => {
-    this.setState({
-      showUsers: true,
-      targetElement: ev.target,
-      isGraphVisible: true,
-      keyCount: keyCountToSet
-      // textFieldValue: ''
-    })
-  }
+    private hideModal = () => {
+      this.setState({
+        showModal: false
+      })
+    }
 
-  private onChangeHandler = (ev: any, newValue: string | undefined) => {
-    this.setState({
-      textFieldValue: newValue,
-      targetElement: ev.target,
-      keyCount: 0,
-      isGraphVisible: newValue?.length===0?true:false
-    })
-
-    if(newValue) {
-      this.matches = [];
-
-      for(let i=0;i<users.length;i++) {
-        const user = users[i].toLowerCase();
-        if(user.indexOf(newValue) >= 0) {
-            this.matches.push(users[i]);
+    private findUserIndex = (userName: string) => {
+      for(let i = 0;i<users.length;i++) {
+        if(users[i] === userName) {
+          return i;
         }
-      } 
-    }
-  }
+      }
 
-  private onKeyDownHandler = (ev: React.KeyboardEvent) => {
-    if(ev.key === 'Enter') {
-      this.setState({
-        showUsers: true,
-        targetElement: ev.target,
-        isGraphVisible: true,
-        // textFieldValue: ''
-      })
-    } else if(ev.key === 'ArrowUp') {
-      const currentKeyCount = this.state.keyCount;
-      this.setState({
-        keyCount: currentKeyCount-1 >= 0 ? currentKeyCount-1 : 0
-      }, ()=>{
-        // console.log(this.state.keyCount)
-      })
-    } else if(ev.key === 'ArrowDown') {
-      const currentKeyCount = this.state.keyCount;
-      this.setState({
-        keyCount: currentKeyCount + 1 <= this.matches.length-1 ? currentKeyCount + 1 : this.matches.length-1
-      }, () => {
-        // console.log(this.state.keyCount)
-      })
+      return 0;
     }
-  }
 }
 
 export default App;

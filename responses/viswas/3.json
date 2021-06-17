@@ -1,0 +1,125 @@
+{
+    "range": "'Form Responses 1'!A1:N112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "10/2/2020 19:39:11",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4"
+      ],
+      [
+        "10/2/2020 19:39:33",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Maybe more gesture could help.",
+        "Story organization and pace of the speech. "
+      ],
+      [
+        "10/2/2020 19:39:33",
+        "5",
+        "4",
+        "4",
+        "3",
+        "4",
+        "Use more vocal variety and hand gestures.",
+        "Personal examples."
+      ],
+      [
+        "10/2/2020 19:39:57",
+        "4",
+        "5",
+        "3",
+        "3",
+        "5",
+        "Can show some excitement for each of the mentors",
+        "Use the story of the north star and closed with the reference of the north star."
+      ],
+      [
+        "10/2/2020 19:40:03",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "video is a bit dark",
+        "emphasis the mentor idea. "
+      ],
+      [
+        "10/2/2020 19:40:28",
+        "4",
+        "5",
+        "3",
+        "3",
+        "4",
+        "",
+        "Good use of rule of 3"
+      ],
+      [
+        "10/2/2020 19:40:46",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Incorporate more vocal variety, and perhaps a bit more emphasis on certain parts",
+        "Injection of humor into the speech. Great job."
+      ],
+      [
+        "10/2/2020 19:43:09",
+        "3",
+        "3",
+        "3",
+        "2",
+        "5",
+        "Try using bullets or points in your speech. ",
+        "Your sardonic humor was tickling!"
+      ],
+      [
+        "10/2/2020 19:51:53",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4",
+        "I don't know if you have done a speech standing up. Maybe try that?",
+        "I loved your speech, Viswas! Lots of personal anecdotes such as sleeping in class and the levitation example. The surprise bit about internet was great. "
+      ],
+      [
+        "10/2/2020 19:56:38",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "What about mixing up your tones a lil bit? Low, medium, & high tones.",
+        "Humor, all natural story, good eye contact and I liked your question to the audience as well. You're a good and creative speaker, keep it up man"
+      ],
+      [
+        "10/3/2020 3:59:10",
+        "3",
+        "3",
+        "3",
+        "2",
+        "5",
+        "Try using bullets or points in your speech. ",
+        "Your sardonic humor was tickling!"
+      ]
+    ]
+  }
+  

@@ -1,0 +1,121 @@
+{
+    "range": "'Form Responses 1'!A1:N112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/9/2021 19:42:04",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "4/9/2021 19:42:14",
+        "5",
+        "4",
+        "5",
+        "3",
+        "5"
+      ],
+      [
+        "4/9/2021 19:42:16",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Question format"
+      ],
+      [
+        "4/9/2021 19:42:23",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5"
+      ],
+      [
+        "4/9/2021 19:42:39",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Better titles",
+        "the whole speech -brilliant!"
+      ],
+      [
+        "4/9/2021 19:42:41",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "More succinct answers to audience questions would be good. ",
+        "Hearing three different speech intros was creative. "
+      ],
+      [
+        "4/9/2021 19:42:48",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Becoming a Leader introduction was difficult to follow.",
+        "The Q&A session and watching Alex speak on his toes."
+      ],
+      [
+        "4/9/2021 19:42:48",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "understand the importance of the introduction in a speech "
+      ],
+      [
+        "4/9/2021 19:43:04",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Maybe make a suggest question at the end of the speech so there will be less pause between speaker and first question",
+        "The different intros and the energy"
+      ],
+      [
+        "4/9/2021 19:43:21",
+        "3",
+        "3",
+        "4",
+        "3",
+        "4",
+        "Us the foundational Phrase for each speech instead of the opening.",
+        "Q&A."
+      ],
+      [
+        "4/9/2021 23:35:41",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "Maybe reveal the poll results prior to ending the speech at like 6:30-6:45 mark, close the speech before 7:30... ",
+        "Great speech topic and structure, eye contact with the camera, controlled enthusiasm, excellent content, the poll idea was unique, questions taken to engage the audience was good, & mindset behind the speech shows growth!   Keep getting better- "
+      ]
+    ]
+  }
+  

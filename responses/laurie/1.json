@@ -1,0 +1,168 @@
+{
+    "range": "'Form Responses 1'!A1:N117",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "7/31/2020 19:47:36",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "7/31/2020 19:47:43",
+        "1",
+        "2",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "7/31/2020 19:47:46",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "7/31/2020 19:47:53",
+        "3",
+        "3",
+        "3",
+        "3",
+        "5"
+      ],
+      [
+        "7/31/2020 19:48:05",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Time management",
+        "Your stories always amaze me"
+      ],
+      [
+        "7/31/2020 19:48:08",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Move the camera so that your hand gestures can be seen. They were good and slightly off camera.",
+        "Rule of 3!"
+      ],
+      [
+        "7/31/2020 19:48:10",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "可以在兇一點 XDD",
+        "like how angry you are"
+      ],
+      [
+        "7/31/2020 19:48:17",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Keep time to tie it all together nicely in the end",
+        "The irony of the last negotiation style :)"
+      ],
+      [
+        "7/31/2020 19:48:19",
+        "3",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Been nice to give an over arching context for your story",
+        "Very descriptive and have strong emotions"
+      ],
+      [
+        "7/31/2020 19:48:28",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "You kept us engaged and at the edge of the seat!! can't wait to know more of the story!"
+      ],
+      [
+        "7/31/2020 19:48:48",
+        "3",
+        "2",
+        "4",
+        "4",
+        "3",
+        "try to make pauses to get more attention "
+      ],
+      [
+        "7/31/2020 19:48:53",
+        "5",
+        "4",
+        "5",
+        "5",
+        "4",
+        "I was left wanting a bit more. Maybe another anecdote in the middle to flesh things out?",
+        "The personal aspect of your speech, and descriptions of how you negotiated with different people in your journey."
+      ],
+      [
+        "7/31/2020 19:48:58",
+        "4",
+        "5",
+        "4",
+        "5",
+        "5",
+        "Use of narrative present or past rather than a mix of both",
+        "Explaining the various ways for efficient negociation"
+      ],
+      [
+        "7/31/2020 19:48:59",
+        "4",
+        "4",
+        "4",
+        "5",
+        "5",
+        "Use a framework e.g. before Cambodia, during Cambodia, and after Cambodia to aid your audience’s comprehension. ",
+        "Laurie’s enthusiasm is infectious!"
+      ],
+      [
+        "7/31/2020 19:49:14",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "I like that you used three negotiation strategies. I feel like it might have been more emphatic if you intorduced those strategies befire telling the story",
+        "It was a super interesting story! I felt empathetic towards you Thank you for sharing :)"
+      ],
+      [
+        "8/1/2020 8:33:08",
+        "4",
+        "4",
+        "4",
+        "5",
+        "5",
+        "Use a framework e.g. before Cambodia, during Cambodia, and after Cambodia to aid your audience’s comprehension. ",
+        "Laurie’s enthusiasm is infectious!"
+      ]
+    ]
+  }
+  

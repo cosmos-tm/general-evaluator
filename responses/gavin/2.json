@@ -1,0 +1,161 @@
+{
+    "range": "'Form Responses 1'!A1:N116",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "8/7/2020 19:39:41",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4"
+      ],
+      [
+        "8/7/2020 19:39:54",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5"
+      ],
+      [
+        "8/7/2020 19:40:08",
+        "5",
+        "5",
+        "3",
+        "2",
+        "5"
+      ],
+      [
+        "8/7/2020 19:40:28",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "reduce the number of and",
+        "i like how you use david goggins as a motivation"
+      ],
+      [
+        "8/7/2020 19:40:32",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "",
+        "Great job! You were very composed and collected. What a stressful story!"
+      ],
+      [
+        "8/7/2020 19:40:35",
+        "4",
+        "5",
+        "3",
+        "4",
+        "5",
+        "",
+        "Simple key points and personal touch"
+      ],
+      [
+        "8/7/2020 19:40:40",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "You could talk about the job you found.",
+        "The anxiety you faced and how you overcame it."
+      ],
+      [
+        "8/7/2020 19:40:43",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5",
+        "Voice modulation",
+        "Personal experience, rule of 3\n"
+      ],
+      [
+        "8/7/2020 19:42:24",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "There was so much meaning in your speech. I frankly didn't find anything to improve on this one.",
+        "When you explain how to step up to find a job"
+      ],
+      [
+        "8/7/2020 19:42:24",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "maybe pretend not look at script lol",
+        "your experience and story! thanks for sharing"
+      ],
+      [
+        "8/7/2020 19:42:54",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Incorporate more vocal variety.",
+        "The speech seemed very personal, and I could feel that you really walked the talk."
+      ],
+      [
+        "8/7/2020 19:43:54",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Summarize the points of your talk, and don’t forget to let your audience know the outcome. Thanks for putting the good need in the Zoom chat!",
+        "You’ve got a comfortable and conversational way of speaking that is so engaging. I could listen to you talking about anything!"
+      ],
+      [
+        "8/7/2020 19:48:00",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "Perhaps a little more vocal variety?                                                                                                                                                           ",
+        "I really liked your emotional openness.  Also your hand gestures: eg the slap on the table. Good Job!"
+      ],
+      [
+        "8/7/2020 19:56:59",
+        "4",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Maybe engage the audience some with a question at the beginning of your speech, ie. 'Has anyone ever had to find a job?'",
+        "All natural speech & the different ways you found inspiration through others or friends who helped you out. "
+      ],
+      [
+        "8/7/2020 19:59:13",
+        "5",
+        "4",
+        "4",
+        "4",
+        "4",
+        "Felt a bit rushed at the end. I am not sure if you mentioned you did get the job during the speech, but that could have been the high point of your speech. ",
+        "Fantastic speech, Gavin! Loved how you took us through the journey and how were you able to detail your different emotions during this difficult phase. Also loved how you gave us something inspirational we could all apply in our lives - like running and keeping a positive mindset. If there is one thing I liked more than your speech, it's your positivity. Keep it that way!"
+      ]
+    ]
+  }
+  

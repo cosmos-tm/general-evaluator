@@ -1,0 +1,37 @@
+{
+    "range": "'Form Responses 1'!A1:N103",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "5/14/2021 19:44:25",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Lightening",
+        "Preparation to details."
+      ],
+      [
+        "5/14/2021 19:47:15",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5",
+        "You've got opportunities in the soft/non loud vocal ranges.",
+        "Movement was fantastic and very captivating!"
+      ]
+    ]
+  }
+  

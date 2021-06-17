@@ -1,0 +1,121 @@
+{
+    "range": "'Form Responses 1'!A1:N112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/16/2021 19:34:32",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "4/16/2021 19:34:46",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "4/16/2021 19:34:58",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "4/16/2021 19:35:02",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Vocal variety ",
+        "Sardonic humor"
+      ],
+      [
+        "4/16/2021 19:35:34",
+        "3",
+        "4",
+        "5",
+        "5",
+        "4",
+        "I wasn't totally sure what the point of the speech was throughout - it seemed to be a pitch/recap of what you do there",
+        "Great visuals!"
+      ],
+      [
+        "4/16/2021 19:35:37",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5",
+        "Varying speaking speeds could help emphasize certain parts of your speech and add interest.",
+        "Great job -- this speech is much improved over your first one! You have a good prescence and sound like an expert"
+      ],
+      [
+        "4/16/2021 19:35:37",
+        "4",
+        "4",
+        "3",
+        "3",
+        "3",
+        "a little fast with speaking",
+        "It's so great to know what your job entails. I am looking forward to hear more of your presentation."
+      ],
+      [
+        "4/16/2021 19:35:47",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "structure",
+        "Confidence and tone"
+      ],
+      [
+        "4/16/2021 19:36:56",
+        "4",
+        "3",
+        "2",
+        "2",
+        "4",
+        "maybe too much information causing you to speak too fast.",
+        "good eye contact "
+      ],
+      [
+        "4/16/2021 19:37:00",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Perhaps ",
+        "I liked the smooth flow of the presentation: it seems like you know your content really well. Noticeably better that the first time you presented."
+      ],
+      [
+        "4/16/2021 21:36:57",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Vocal variety ",
+        "Sardonic humor"
+      ]
+    ]
+  }
+  

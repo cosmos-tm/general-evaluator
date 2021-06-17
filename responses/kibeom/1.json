@@ -1,0 +1,143 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "1/8/2021 19:43:21",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "1/8/2021 19:43:26",
+        "5",
+        "4",
+        "3",
+        "4",
+        "4"
+      ],
+      [
+        "1/8/2021 19:43:37",
+        "5",
+        "5",
+        "3",
+        "4",
+        "5",
+        "Vocal variety ",
+        "Candor"
+      ],
+      [
+        "1/8/2021 19:43:49",
+        "5",
+        "5",
+        "5",
+        "3",
+        "5",
+        "Vocal variety can be improved",
+        "Great improvement in structure, pauses, keep growing!! "
+      ],
+      [
+        "1/8/2021 19:43:50",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Incorporate more hand gestures, maybe some more vocal variety",
+        "Speech was well-written and well thought out"
+      ],
+      [
+        "1/8/2021 19:43:50",
+        "5",
+        "3",
+        "3",
+        "5",
+        "5",
+        "Pace of speech could have been faster. ",
+        "Topic inspired me to take quiz to discover my communication style."
+      ],
+      [
+        "1/8/2021 19:43:53",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "Would be nice if you shared references for how to learn our communication styles",
+        "Encouraging us to go take the test and learn our communication styles. "
+      ],
+      [
+        "1/8/2021 19:43:54",
+        "5",
+        "5",
+        "5",
+        "4",
+        "4",
+        "",
+        "no filter words at all, very clear point, easy to relate  and understand"
+      ],
+      [
+        "1/8/2021 19:44:05",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Didn't see hand gestures. Been nice to add some vocal variety to your personal stories",
+        "Got people engage with a question to the group and examples"
+      ],
+      [
+        "1/8/2021 19:44:06",
+        "3",
+        "3",
+        "2",
+        "2",
+        "3",
+        "Have stronger transitions",
+        "Topic was interesting "
+      ],
+      [
+        "1/8/2021 19:44:49",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Add some vocal variety into this speech! It could be pretty good, I liked the example stories, maybe flesh those out more into a long story-\u003e improvement/learning, those go best!",
+        "I really liked how I understood more about your communication style, I could really compare it to mine, and that was nice!"
+      ],
+      [
+        "1/8/2021 19:45:41",
+        "4",
+        "3",
+        "2",
+        "3",
+        "3",
+        "Try using your hands a bit more such as when you are differentiating between your culture and American culture.",
+        "Very interesting culture comparison."
+      ],
+      [
+        "1/8/2021 19:49:32",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Keep doing great and getting better!",
+        "Way to Self-assess and challenge yourself to learn your speaking style while striving to get there. Really liked the audience interaction at the beginning of your speech, great eye contact with the camera, & awesome all-natural story."
+      ]
+    ]
+  }
+  

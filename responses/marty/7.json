@@ -1,0 +1,78 @@
+{
+  "range": "'Form Responses 1'!A1:N108",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Timestamp",
+      "Did the speaker accurately convey the point of the speech?",
+      "How was the structure of the speech?",
+      "How was the speaker's vocal variety?",
+      "How were the speaker's hand gestures?",
+      "Did the speaker appear nervous?",
+      "What are some opportunities for improvement? ",
+      "What was the best part about the speech?"
+    ],
+    [
+      "5/7/2021 19:31:45",
+      "5",
+      "4",
+      "5",
+      "5",
+      "5"
+    ],
+    [
+      "5/7/2021 19:32:13",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5"
+    ],
+    [
+      "5/7/2021 19:32:15",
+      "5",
+      "4",
+      "4",
+      "5",
+      "5"
+    ],
+    [
+      "5/7/2021 19:32:29",
+      "5",
+      "4",
+      "5",
+      "4",
+      "5",
+      "",
+      "Love the history and questions at the end to get people to think"
+    ],
+    [
+      "5/7/2021 19:32:46",
+      "5",
+      "4",
+      "5",
+      "4",
+      "5"
+    ],
+    [
+      "5/7/2021 19:32:53",
+      "5",
+      "4",
+      "5",
+      "4",
+      "5",
+      "",
+      "handy ideas for celebrating mother's day! Have a wonderful mother's day :)"
+    ],
+    [
+      "5/7/2021 19:33:41",
+      "5",
+      "4",
+      "5",
+      "3",
+      "5",
+      "Consider narrowing the scope a bit. I enjoyed hearing about all your research on the topic but would liked for you to elaborate more on less points.",
+      "Great introduction and ending. Very personable, genuine, and warm tone."
+    ]
+  ]
+}

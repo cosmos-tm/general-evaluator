@@ -1,0 +1,145 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "3/5/2021 19:45:16",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "3/5/2021 19:45:42",
+        "5",
+        "3",
+        "4",
+        "4",
+        "5",
+        "Talk about why the profile on the dating sight helped you write your icebreaker.",
+        "Loved 'the belt buckle of the rust belt!\""
+      ],
+      [
+        "3/5/2021 19:45:50",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Great, you nailed engaging speech! Appreciate the humors. "
+      ],
+      [
+        "3/5/2021 19:45:54",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "stumbled once",
+        "funny/fun story, thanks for sharing! great speech. "
+      ],
+      [
+        "3/5/2021 19:46:04",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Narrow the focus a bit more",
+        "Very funny, kept my attention."
+      ],
+      [
+        "3/5/2021 19:46:09",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "All together great. Good pacing, good pausing, clarity of the contents. "
+      ],
+      [
+        "3/5/2021 19:46:10",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Your presence of mind to modify the speech on the spot!"
+      ],
+      [
+        "3/5/2021 19:46:13",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "A couple of pause but very minor",
+        "Humor, nice idea, engaging audience eveything"
+      ],
+      [
+        "3/5/2021 19:46:15",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5",
+        "",
+        "Being able to incorporate the word of the day, and react to events in the meeting like the green color of the light"
+      ],
+      [
+        "3/5/2021 19:46:17",
+        "3",
+        "4",
+        "5",
+        "5",
+        "4",
+        "",
+        "The speech as a whole felt like you were taking me on a journey with your story."
+      ],
+      [
+        "3/5/2021 19:46:24",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "",
+        "Humor, and the personal nature of the speech. I was smiling from Alex P. Keaton on!"
+      ],
+      [
+        "3/5/2021 19:46:44",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Keep doing great and getting better",
+        "Awesome topic, eye contact, hand gestures, stories, and overall speech"
+      ],
+      [
+        "3/5/2021 20:05:22",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "Did speak quickly to start, improved as speech continued",
+        "Well placed humor, nicely structured."
+      ]
+    ]
+  }
+  

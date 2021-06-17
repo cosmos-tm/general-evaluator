@@ -1,0 +1,117 @@
+{
+    "range": "'Form Responses 1'!A1:N111",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "6/12/2020 19:37:32",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Possibly share a picture of who he is for those who don't know him or what Salesforce is.",
+        "Your presentation was very natural and your voice was very clear."
+      ],
+      [
+        "6/12/2020 19:40:46",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Learning about Aaron's favorite industrial leader and his values! "
+      ],
+      [
+        "6/12/2020 19:41:16",
+        "4",
+        "5",
+        "4",
+        "4",
+        "5",
+        "",
+        "great summary of benioff"
+      ],
+      [
+        "6/12/2020 19:41:17",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "the introduction and he got our attention asking a question  "
+      ],
+      [
+        "6/12/2020 19:41:20",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Conclusion felt very short.",
+        "Really going to into different aspects of why you like Mark, from donation, to fighting wage gaps and to the work he does."
+      ],
+      [
+        "6/12/2020 19:41:23",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Show your top half to reveal hand gestures. ",
+        "The description of ohana and the connection to Lilo and Stich was cool. "
+      ],
+      [
+        "6/12/2020 19:41:36",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Would have liked to hear a bit about Benioff's history and motivations",
+        "Great to hear about your inspiration, Aaron!"
+      ],
+      [
+        "6/12/2020 19:41:45",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Maybe add more content or a lead in to who it is, or what the company is. An intro that starts with \"Ohana\" might catch more attention than asking who this person is.",
+        "Aaron is giving speeches! Yay!"
+      ],
+      [
+        "6/12/2020 19:42:56",
+        "4",
+        "4",
+        "3",
+        "2",
+        "3",
+        "Although the point of the speech was to convey information, a bit more modulation in voice and pauses would be nice next time. ",
+        "Great preparation! Very well researched and thorough with the life and contributions of Marc Benioff. Especially good to know about the 1-1-1 rule"
+      ],
+      [
+        "6/12/2020 19:44:07",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Maybe see if you can mix-up your tone some while reading your speech. ",
+        "CRM is a company I've traded, great company for sure, Loved your topic choice, information shared, and how you talked about your desire to work which brought the speech full circle for me."
+      ]
+    ]
+  }
+  

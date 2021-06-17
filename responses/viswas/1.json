@@ -1,0 +1,103 @@
+{
+    "range": "'Form Responses 1'!A1:N110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "8/14/2020 19:33:29",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Add more stories or anecdotes",
+        "The PPT is nice."
+      ],
+      [
+        "8/14/2020 19:33:43",
+        "5",
+        "5",
+        "3",
+        "4",
+        "4"
+      ],
+      [
+        "8/14/2020 19:34:04",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "tone"
+      ],
+      [
+        "8/14/2020 19:34:09",
+        "5",
+        "5",
+        "3",
+        "5",
+        "4",
+        "Incorporate more vocal variety, maybe an anecdote from your own life to tie things together at the end",
+        "Well-structured, good slides"
+      ],
+      [
+        "8/14/2020 19:34:32",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5",
+        "I would have liked you to be visible during your speech, and have your hands be visible. ",
+        "The analogy to the Indian dish was clever!"
+      ],
+      [
+        "8/14/2020 19:34:34",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Talk about your personal experience and how it apply to the 3 options.",
+        "Simple slides and break down the idea to make it easy to understand."
+      ],
+      [
+        "8/14/2020 19:35:52",
+        "4",
+        "4",
+        "2",
+        "3",
+        "5",
+        "Perhaps more vocal variety.  Perhaps a specific example from your life that illustrates your leadership style: the pros and cons it had on the outcome.",
+        "I liked that your leadership style is like your favorite food! And, I liked the inspirational tone and message of your speech."
+      ],
+      [
+        "8/14/2020 19:43:24",
+        "5",
+        "4",
+        "4",
+        "5",
+        "4"
+      ],
+      [
+        "8/17/2020 9:29:52",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5",
+        "I would have liked you to be visible during your speech, and have your hands be visible. ",
+        "The analogy to the Indian dish was clever!"
+      ]
+    ]
+  }
+  

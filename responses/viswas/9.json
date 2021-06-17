@@ -1,0 +1,103 @@
+{
+    "range": "'Form Responses 1'!A1:N110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "5/21/2021 19:36:46",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "5/21/2021 19:36:52",
+        "5",
+        "4",
+        "3",
+        "4",
+        "4"
+      ],
+      [
+        "5/21/2021 19:37:17",
+        "5",
+        "5",
+        "3",
+        "4",
+        "5",
+        "Vocal variety",
+        "Pacing was excellent!"
+      ],
+      [
+        "5/21/2021 19:37:19",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "examples can be a bit longer and more detail",
+        "structure is clear and easy to follow "
+      ],
+      [
+        "5/21/2021 19:37:24",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Excitement in the stories you share. Conclusion felt a little short.",
+        "Really like the hand gesture and example for each of the items you listed"
+      ],
+      [
+        "5/21/2021 19:37:49",
+        "5",
+        "5",
+        "4",
+        "4",
+        "3",
+        "Your speech usually has some humor or punchlines, I felt I missed that this time",
+        "Thanks for thinking along these lines and relaying your learnings to us. I'm figuring out similar stuff myself now, so was helpful "
+      ],
+      [
+        "5/21/2021 19:37:59",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "More Vocal Variety and movement towards the camera, especially when you're making your points as well as during your conclusion.",
+        "You gave 3 examples and bullet pointed them well."
+      ],
+      [
+        "5/21/2021 19:38:01",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Maybe see how you can mix in different tones with your story telling...",
+        "Excellent topic, way to use your personal stories to get your point across, excellent real life experience, way to use hang gestures to explain and emphasizes certain parts in your speech. "
+      ],
+      [
+        "5/21/2021 19:38:08",
+        "4",
+        "5",
+        "2",
+        "4",
+        "5",
+        "Perhaps include something that makes leadership important to you; do you aspire to make a bigger impact?",
+        "I liked that it was a real world experience and that the topic means a lot to you."
+      ]
+    ]
+  }
+  

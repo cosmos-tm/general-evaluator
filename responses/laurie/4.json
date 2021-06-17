@@ -1,0 +1,102 @@
+{
+    "range": "'Form Responses 1'!A1:N110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "2/5/2021 19:41:04",
+        "3",
+        "3",
+        "3",
+        "4",
+        "4",
+        "Speech sounds rushed"
+      ],
+      [
+        "2/5/2021 19:41:15",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Great topic and festive speech! Loved standing speech and how you challenge yourself every time "
+      ],
+      [
+        "2/5/2021 19:41:25",
+        "4",
+        "5",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "2/5/2021 19:41:26",
+        "4",
+        "5",
+        "4",
+        "5",
+        "5",
+        "",
+        "cosmos going global virtually"
+      ],
+      [
+        "2/5/2021 19:41:42",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "2/5/2021 19:42:10",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "Could slow down a bit, but nice job fitting all the announcements in. ",
+        "Lots of exciting news, conveyed very well. "
+      ],
+      [
+        "2/5/2021 19:42:24",
+        "5",
+        "4",
+        "4",
+        "5",
+        "4",
+        "I would say vocal variety and nervousness are related because when we're nervous we sound like we're presenting rather than speaking naturally which is a problem i constantly struggle with!",
+        "I loved the information on the opportunities and our club that you shared! Thanks!"
+      ],
+      [
+        "2/5/2021 19:43:05",
+        "4",
+        "3",
+        "3",
+        "3",
+        "3",
+        "Try a bit more vocal variety. Especially use more excitement and amazement while presenting you idea.",
+        "The idea, and how enthusiastic you for the idea. Also liked that you had a concrete example of this working. I really like the idea."
+      ],
+      [
+        "2/5/2021 19:43:31",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "At times your hands disappeared into the background, perhaps have a screen which would make you stand out more",
+        "Your excitement for the topic"
+      ]
+    ]
+  }
+  

@@ -1,0 +1,136 @@
+{
+    "range": "'Form Responses 1'!A1:N113",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? Anything you'd like to challenge the speaker with?",
+        "What was the best part about the speech?"
+      ],
+      [
+        "7/17/2020 19:38:54",
+        "5",
+        "4",
+        "4",
+        "3",
+        "3",
+        "Put titles for the slides",
+        "The pics"
+      ],
+      [
+        "7/17/2020 19:43:50",
+        "4",
+        "4",
+        "3",
+        "2",
+        "2",
+        "Could use with gestures or show a pic of the house",
+        "The personal story"
+      ],
+      [
+        "7/17/2020 19:47:25",
+        "4",
+        "3",
+        "3",
+        "4",
+        "4",
+        "Better introduction on what is going to be covered "
+      ],
+      [
+        "7/17/2020 19:47:55",
+        "5",
+        "5",
+        "3",
+        "3",
+        "4",
+        "It would be great to see your hands for gestures.",
+        "Your candor was impressive. Thank you for sharing so openly!"
+      ],
+      [
+        "7/17/2020 19:47:56",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Grea speech, Kimmie. I wish we could have seen some images or videos of the house or heard some more descriptions about the place!",
+        "It was humorous and told like a story"
+      ],
+      [
+        "7/17/2020 19:47:58",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Could have acted more excited when you got the home you want, or less excited when you didn't get it. Conclusion was a bit short.",
+        "Personal story, really easy to follow."
+      ],
+      [
+        "7/17/2020 19:48:06",
+        "5",
+        "4",
+        "4",
+        "5",
+        "3",
+        "",
+        "that you enjoy your new home!  "
+      ],
+      [
+        "7/17/2020 19:48:12",
+        "5",
+        "5",
+        "5",
+        "3",
+        "2",
+        "a bit nervous",
+        "很有趣的經驗 謝謝分享 希望你跟你老公可以好好的"
+      ],
+      [
+        "7/17/2020 19:48:33",
+        "5",
+        "4",
+        "2",
+        "3",
+        "5",
+        "Perhaps more vocal variety: with pitch, pace and volume?",
+        "I liked the personal and frank discussion of your husband and your differences"
+      ],
+      [
+        "7/17/2020 19:48:36",
+        "4",
+        "4",
+        "3",
+        "5",
+        "3",
+        "Work on enunciation",
+        "Your honesty"
+      ],
+      [
+        "7/17/2020 19:50:01",
+        "4",
+        "3",
+        "4",
+        "4",
+        "3",
+        "I feel the structure could be a little balanced between the several takeaways you had from the process. Alternatively, list out your takeaways at the end as a recap.",
+        "You told the story chronologically and kept the listeners engaged. All of us were eager to find out what sort of house you ended up with!"
+      ],
+      [
+        "7/17/2020 21:04:18",
+        "4",
+        "4",
+        "3",
+        "5",
+        "3",
+        "Work on enunciation",
+        "Your honesty"
+      ]
+    ]
+  }
+  

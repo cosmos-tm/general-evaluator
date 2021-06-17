@@ -1,0 +1,114 @@
+{
+    "range": "'Form Responses 1'!A1:O110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "Comments on Kang Kai's style",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "6/5/2020 19:28:30",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "So comfortable!",
+        "Show your hands modulate your voice. ",
+        "Challenge at the end. "
+      ],
+      [
+        "6/5/2020 19:28:34",
+        "4",
+        "5",
+        "4",
+        "1",
+        "5",
+        "Loud and clear",
+        "Try to look at the camera more.  Perhaps put your text as close as possible to the camera so your eyes are both on your text and the camera.",
+        "the action item at the end"
+      ],
+      [
+        "6/5/2020 19:28:42",
+        "4",
+        "5",
+        "2",
+        "2",
+        "3"
+      ],
+      [
+        "6/5/2020 19:29:30",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "All natural style that fits who he is, thorough and insightful",
+        "maybe look at the camera a lil more",
+        "very informative and inspiring"
+      ],
+      [
+        "6/5/2020 19:29:56",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Style was conversational and casual, good rapport with audience. I liked the interactive part at the beginning.",
+        "Incorporation of more gestures, some more vocal variety.",
+        "Personal lessons learned,"
+      ],
+      [
+        "6/5/2020 19:29:57",
+        "5",
+        "5",
+        "4",
+        "3",
+        "4",
+        "Calm and collected",
+        "More energy ",
+        "Personal and interesting "
+      ],
+      [
+        "6/5/2020 19:30:35",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "I liked your casual explanation style.",
+        "It would be great to have a twist or surprise in your journey.",
+        "I really like your genuine enthusiasm for the topic!"
+      ],
+      [
+        "6/5/2020 19:33:19",
+        "5",
+        "4",
+        "5",
+        "3",
+        "5",
+        "calm and stylish ",
+        "this should me emotional right? since you are leaving your role. so make us cry",
+        "the chronological order to present your journey in TM.  "
+      ],
+      [
+        "6/5/2020 20:35:58",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "So comfortable!",
+        "Show your hands modulate your voice. ",
+        "Challenge at the end. "
+      ]
+    ]
+  }
+  

@@ -1,0 +1,153 @@
+{
+    "range": "'Form Responses 1'!A1:N115",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "6/12/2020 19:33:11",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "6/12/2020 19:33:19",
+        "3",
+        "3",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "6/12/2020 19:33:36",
+        "4",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Transition between your speech and slides, since it does take time for the slides to load.",
+        "Adding guest to your speeches and using videos"
+      ],
+      [
+        "6/12/2020 19:33:41",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Talk more about what you felt during the run.",
+        "Sardonic humor ruled!"
+      ],
+      [
+        "6/12/2020 19:33:53",
+        "4",
+        "4",
+        "4",
+        "3",
+        "5",
+        "",
+        "running"
+      ],
+      [
+        "6/12/2020 19:33:58",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Share ppt slides without the preview on the left side",
+        "Humorous"
+      ],
+      [
+        "6/12/2020 19:33:58",
+        "5",
+        "5",
+        "4",
+        "2",
+        "4",
+        "Use more gestures",
+        "The videos and slides of course."
+      ],
+      [
+        "6/12/2020 19:34:03",
+        "4",
+        "4",
+        "3",
+        "1",
+        "5",
+        "Speech was a little fast. I think your camera was too close so I didn't see your hand gestures",
+        "As always, your humor! I always enjoy your speech. \"Every cloud has a silver lining\" - hm....I wonder where you got this from?! :P"
+      ],
+      [
+        "6/12/2020 19:34:05",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5",
+        "slide show mode in presentation mode when you share your screen.",
+        "The croissants!"
+      ],
+      [
+        "6/12/2020 19:34:11",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Went to running again! "
+      ],
+      [
+        "6/12/2020 19:34:11",
+        "4",
+        "5",
+        "5",
+        "4",
+        "5",
+        "Maybe more hand gestures?",
+        "The comedy! Thanks for sharing. Would love to be able to run 6 -7 miles. Thats a new goal."
+      ],
+      [
+        "6/12/2020 19:35:54",
+        "4",
+        "5",
+        "3",
+        "4",
+        "5",
+        "When you say \"I'm so tired\" try doing it with some more variety, using the tone to say how tired you were.",
+        "I got #CalledOut !"
+      ],
+      [
+        "6/12/2020 19:39:00",
+        "4",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Maybe see if you could mix up your tones a lil bit",
+        "Great humor, all natural story, liked the topic, energy throughout speech, and your all natural ability to engage your audience."
+      ],
+      [
+        "6/12/2020 19:44:08",
+        "4",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Effortlessly funny, fluid and natural"
+      ]
+    ]
+  }
+  

@@ -1,0 +1,139 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "1/29/2021 19:35:46",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "1/29/2021 19:36:02",
+        "5",
+        "5",
+        "4",
+        "5",
+        "4"
+      ],
+      [
+        "1/29/2021 19:36:10",
+        "5",
+        "4",
+        "3",
+        "5",
+        "5"
+      ],
+      [
+        "1/29/2021 19:36:12",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5"
+      ],
+      [
+        "1/29/2021 19:36:38",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Congrats on swearing-in ceremony!!! "
+      ],
+      [
+        "1/29/2021 19:36:48",
+        "4",
+        "5",
+        "3",
+        "3",
+        "5",
+        "Could have put some excitement when you were doing your ceremony",
+        "Linking to the ceremony in the inauguration event to your own ceremony"
+      ],
+      [
+        "1/29/2021 19:36:48",
+        "5",
+        "5",
+        "5",
+        "5",
+        "3",
+        "Great story, will be even better if less nervous ",
+        "good delivery, good story "
+      ],
+      [
+        "1/29/2021 19:36:55",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Use more expressions . Sad and happy, a little more vocal variety and pacing",
+        "The structure."
+      ],
+      [
+        "1/29/2021 19:37:05",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Dang! I was hoping to say fillers, but this is more of a challenge now. You could challenge yourself by going to a competition with it :)",
+        "The best part was the story, it was very personable and easy to relate to. I liked it!"
+      ],
+      [
+        "1/29/2021 19:38:05",
+        "5",
+        "4",
+        "4",
+        "4",
+        "4",
+        "",
+        "Personal aspect. Thanks for sharing"
+      ],
+      [
+        "1/29/2021 19:48:37",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Nothing specific I would recommend to improve.",
+        "Great speech, I could tell that it was well planned out and it sounded organized. "
+      ],
+      [
+        "1/29/2021 19:59:16",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "Time",
+        "Personal experience"
+      ],
+      [
+        "2/2/2021 16:03:43",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Vocal variation could punctuate your talk",
+        "Getting to know your tenacity was great"
+      ]
+    ]
+  }
+  

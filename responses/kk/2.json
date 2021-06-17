@@ -1,0 +1,105 @@
+{
+    "range": "'Form Responses 1'!A1:N110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/30/2021 19:37:39",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "4/30/2021 19:49:12",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Examples of art and personal feelings about the examples"
+      ],
+      [
+        "4/30/2021 19:49:21",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Move with Mona Lisa's eyes to insert visual variety",
+        "Details"
+      ],
+      [
+        "4/30/2021 19:49:26",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "the history background about the mona lisa painting! "
+      ],
+      [
+        "4/30/2021 19:49:28",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "maybe be more mindful about the time. ",
+        "talking about the art and meanwhile sharing personal experience "
+      ],
+      [
+        "4/30/2021 19:50:02",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4",
+        "Reduce or eliminate some pauses and filler words. Overall your speech clarity was good though.",
+        "You dropped some knowledge! The visuals were also really great and supported your speech. "
+      ],
+      [
+        "4/30/2021 19:51:06",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "I recommend getting a mic or headset with a MIC. Your audio was overmodulated and caused static/distortion that took away from your speech",
+        "I really liked the facts about the Mona Lisa, I did see the eyes move."
+      ],
+      [
+        "4/30/2021 19:51:17",
+        "4",
+        "3",
+        "3",
+        "2",
+        "4",
+        "Bigger pix, learn how to do PP, emphasis parts of pictures ",
+        "topic"
+      ],
+      [
+        "4/30/2021 20:23:00",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Smooth out some transitions",
+        "This was an awesome speech! Visual aids made it even better."
+      ]
+    ]
+  }
+  

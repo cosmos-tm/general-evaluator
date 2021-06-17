@@ -1,108 +1,126 @@
 {
-  "range": "'Form Responses 1'!A1:N111",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "Timestamp",
-      "Did the speaker accurately convey the point of the speech?",
-      "How was the structure of the speech?",
-      "How was the speaker's vocal variety?",
-      "How were the speaker's hand gestures?",
-      "Did the speaker appear nervous?",
-      "What are some opportunities for improvement? ",
-      "What was the best part about the speech?"
-    ],
-    [
-      "8/21/2020 19:43:06",
-      "5",
-      "5",
-      "4",
-      "5",
-      "5"
-    ],
-    [
-      "8/21/2020 19:43:29",
-      "4",
-      "5",
-      "4",
-      "3",
-      "4"
-    ],
-    [
-      "8/21/2020 19:43:43",
-      "3",
-      "4",
-      "5",
-      "4",
-      "5",
-      "Maybe clarity in the points.",
-      "Asking someone to read the dialog. "
-    ],
-    [
-      "8/21/2020 19:43:46",
-      "5",
-      "5",
-      "3",
-      "3",
-      "5"
-    ],
-    [
-      "8/21/2020 19:43:48",
-      "5",
-      "5",
-      "3",
-      "3",
-      "5"
-    ],
-    [
-      "8/21/2020 19:44:10",
-      "5",
-      "5",
-      "4",
-      "3",
-      "5",
-      "Would have liked to hear more about the struggles you faced with leading",
-      "I liked that you spoke about sports , strongest and weakest links"
-    ],
-    [
-      "8/21/2020 19:44:12",
-      "5",
-      "5",
-      "4",
-      "3",
-      "5",
-      "Try to use hand gestures ",
-      "Talking about the book and describing the concept such that it is easy to understand"
-    ],
-    [
-      "8/21/2020 19:44:57",
-      "5",
-      "5",
-      "5",
-      "5",
-      "5",
-      "",
-      "Nice speech, good vocal variety,humor"
-    ],
-    [
-      "8/21/2020 19:45:18",
-      "5",
-      "4",
-      "3",
-      "3",
-      "5",
-      "I think it would have been good to go more into how you came to realize this approach you felt was most appropriate to your lessons: there are a lot of books any styles to teaching.",
-      "I liked the specific examples and how you demonstrated your teaching style with KK."
-    ],
-    [
-      "8/21/2020 19:50:42",
-      "5",
-      "4",
-      "4",
-      "4",
-      "5",
-      "Let’s see those hands. Gestures were hidden. ",
-      "The various cooking, sports, and teaching linkages were quite insightful. "
+    "range": "'Form Responses 1'!A1:O111",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "How relevant were the questions put forth by the speaker?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "6/5/2020 19:48:08",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "5",
+        "You could insert a couple of common questions and the answers as a spur to prompt the audience.",
+        "The visuals were clear and instructive. "
+      ],
+      [
+        "6/5/2020 19:55:54",
+        "5",
+        "5",
+        "2",
+        "2",
+        "5",
+        "4"
+      ],
+      [
+        "6/5/2020 19:56:32",
+        "5",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Eliminate some filler words.",
+        "Good visuals and explanations. "
+      ],
+      [
+        "6/5/2020 19:56:48",
+        "4",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "Maybe put more attention on the time. ",
+        "i like you conducted a Q&A and have communications with the audience. I just have one question for you: fried chicken or chemistry?! lol "
+      ],
+      [
+        "6/5/2020 19:56:54",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "",
+        "",
+        "The overall information it provided"
+      ],
+      [
+        "6/5/2020 19:57:46",
+        "5",
+        "4",
+        "3",
+        "4",
+        "4",
+        "5",
+        "Perhaps include the kinds of problems this basic research could make solvable: like reversing/eliminating aging due to the sun or a reduction in cancers.",
+        "I really liked your enthusiasm for the topic and the details of the chemical processes involved."
+      ],
+      [
+        "6/5/2020 19:58:30",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "very impress the way you answer those hard question. i'm was trying to give you the difficult one :P"
+      ],
+      [
+        "6/5/2020 20:01:04",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Slides were a lil wordy",
+        "Great topic and story about how you got so interested in Chemistry when asked.  (Also, I'll email you my actual evaluation that you'd use for pathways)"
+      ],
+      [
+        "6/5/2020 20:04:26",
+        "4",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "More passion",
+        "Slides were easy to understand "
+      ],
+      [
+        "6/5/2020 20:06:49",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "4",
+        "Limit the questions so speech doesn’t go too long. Set expectations early about how much time is allotted ",
+        "Dense, scientific "
+      ]
     ]
-  ]
-}
+  }
+  

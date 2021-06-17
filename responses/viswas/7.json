@@ -1,0 +1,89 @@
+{
+    "range": "'Form Responses 1'!A1:N109",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/16/2021 19:43:10",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "4/16/2021 19:43:17",
+        "4",
+        "4",
+        "3",
+        "4",
+        "3"
+      ],
+      [
+        "4/16/2021 19:43:43",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "4/16/2021 19:43:44",
+        "4",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Hand gestures can be more frequent.",
+        "Good well thought structure. "
+      ],
+      [
+        "4/16/2021 19:43:54",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      [
+        "4/16/2021 19:44:06",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Use more vocal variety and hand gestures.",
+        "Great intro -- you grabbed the audience's attention with the comparison of a homeless person in torn jeans and a celebrity in the same outfit. "
+      ],
+      [
+        "4/16/2021 19:44:12",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Vocal variety ",
+        "“For no money,”...something we all like!"
+      ],
+      [
+        "4/16/2021 23:20:51",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Vocal variety ",
+        "“For no money,”...something we all like!"
+      ]
+    ]
+  }
+  

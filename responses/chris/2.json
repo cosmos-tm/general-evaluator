@@ -1,0 +1,83 @@
+{
+    "range": "'Form Responses 1'!A1:N108",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/30/2021 19:37:51",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "4/30/2021 19:38:05",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "4/30/2021 19:38:10",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "the photos and the jokes :)"
+      ],
+      [
+        "4/30/2021 19:38:13",
+        "4",
+        "5",
+        "4",
+        "5",
+        "5",
+        "Pacing variety",
+        "Ebullient smiles!\n"
+      ],
+      [
+        "4/30/2021 19:38:13",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Maybe narrowed the scripts down a little bit so can make it within the timeframe. ",
+        "lovely story with daughters :)"
+      ],
+      [
+        "4/30/2021 19:38:21",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "great family activities and will become good memory"
+      ],
+      [
+        "4/30/2021 19:38:41",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "bigger pictures",
+        "talking about hats"
+      ]
+    ]
+  }
+  

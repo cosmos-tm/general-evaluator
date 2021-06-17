@@ -1,0 +1,131 @@
+{
+    "range": "'Form Responses 1'!A1:N113",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "2/19/2021 19:40:21",
+        "3",
+        "3",
+        "3",
+        "5",
+        "5",
+        "I wasn't a fan of the Chipotle topic, but that is just me",
+        "I like how you paralleled your chipotle experience to your real life experience"
+      ],
+      [
+        "2/19/2021 19:40:42",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "2/19/2021 19:40:55",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "2/19/2021 19:41:06",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "2/19/2021 19:41:23",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "",
+        "Personal stories and comparing it to chipotle which everyone in the club loves"
+      ],
+      [
+        "2/19/2021 19:41:26",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Your vivid personal experiences, and the construction of this Chipotle world!"
+      ],
+      [
+        "2/19/2021 19:41:33",
+        "3",
+        "3",
+        "4",
+        "4",
+        "5",
+        "Possibly provide an agenda for your speech to aid following your ideas. ",
+        "You’re so comfortable when speaking, it makes it seem like anyone can do it!"
+      ],
+      [
+        "2/19/2021 19:41:34",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "",
+        "Excellent how you gave a speech on very focused topic "
+      ],
+      [
+        "2/19/2021 19:42:05",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "I think the conclusion has really good deep meaning which can help us reflect from having nothing to having abundance. If you can ask the audience a question to reflect, it will be very inspirational.",
+        "It's very relatable and touching."
+      ],
+      [
+        "2/19/2021 19:43:21",
+        "5",
+        "4",
+        "5",
+        "4",
+        "4",
+        "",
+        "Personal aspect of the content and willingness to be vulnerable"
+      ],
+      [
+        "2/19/2021 19:45:12",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "I like to give myself 5s to make myself feel good. Lol.",
+        "I like to give myself 5s to make myself feel good. Lol."
+      ],
+      [
+        "2/20/2021 8:17:50",
+        "3",
+        "3",
+        "4",
+        "4",
+        "5",
+        "Possibly provide an agenda for your speech to aid following your ideas. ",
+        "You’re so comfortable when speaking, it makes it seem like anyone can do it!"
+      ]
+    ]
+  }
+  

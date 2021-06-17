@@ -1,0 +1,138 @@
+{
+    "range": "'Form Responses 1'!A1:O112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "Was the speech content interesting and presented in an engaging way?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "8/14/2020 19:43:00",
+        "5",
+        "Absolutely",
+        "5",
+        "4",
+        "5",
+        "5",
+        "",
+        "Speech was very well organized and seemed like a solid business idea. Slides were well-crafted and easy to understand."
+      ],
+      [
+        "8/14/2020 19:43:06",
+        "4",
+        "Somewhat",
+        "4",
+        "2",
+        "3",
+        "2",
+        "Lots of pauses and repetition",
+        "Like how you started and ended"
+      ],
+      [
+        "8/14/2020 19:43:10",
+        "5",
+        "Somewhat",
+        "5",
+        "4",
+        "4",
+        "2",
+        "Opportunities include sounding more confident in the objective, busienss model",
+        "I love your idea! This sounds like a goodopp"
+      ],
+      [
+        "8/14/2020 19:43:10",
+        "4",
+        "Somewhat",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Want to put more energy on the selling pitch, which I assume is the money that could be made",
+        "Clean slides and easy to follow idea."
+      ],
+      [
+        "8/14/2020 19:43:17",
+        "4",
+        "Absolutely",
+        "3",
+        "4",
+        "3",
+        "5",
+        "You could have told us a bit about how you thought of this idea and made it a personal\n"
+      ],
+      [
+        "8/14/2020 19:43:26",
+        "5",
+        "Somewhat",
+        "3",
+        "3",
+        "5",
+        "5",
+        "What is the difference between normal food and orgarnic food, didn't emphasize on the how you plan to achieve your goals. ",
+        "Good business plan, good enthusiasm :)"
+      ],
+      [
+        "8/14/2020 19:43:51",
+        "4",
+        "Somewhat",
+        "5",
+        "4",
+        "4",
+        "4",
+        "more energy and emotion engagement. ",
+        "like you idae"
+      ],
+      [
+        "8/14/2020 19:43:56",
+        "5",
+        "Absolutely",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Less info on slides using additional slides if you have more ideas. ",
+        "Generosity to help China. "
+      ],
+      [
+        "8/14/2020 19:50:20",
+        "5",
+        "Somewhat",
+        "4",
+        "3",
+        "5",
+        "5",
+        "Your intro was a little long and you repeated the purpose of the start-up several times:  I would have liked to learn more about the details of the start up. ",
+        "I liked your enthusiasm for your start up idea. And, how big you were thinking: an ever faster operation than Amazon!"
+      ],
+      [
+        "8/14/2020 19:56:14",
+        "4",
+        "Somewhat",
+        "4",
+        "3",
+        "3",
+        "4",
+        "I'd suggest a better research into the business model and China market before investing. As far as I understood, you are trying to collect the supply from local Chinese farmer and provide a website for Chinese to buy organic food. So essentially you are assuming there's no good way for Chinese to purchase organic food from farmers rn. The reality is, Chinese don't usually shop the same way as ppl do in the U.S. A better research into the local market can give you more insights.",
+        "Nice figures."
+      ],
+      [
+        "8/17/2020 9:12:30",
+        "5",
+        "Absolutely",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Less info on slides using additional slides if you have more ideas. ",
+        "Generosity to help China. "
+      ]
+    ]
+  }
+  

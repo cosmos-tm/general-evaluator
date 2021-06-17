@@ -1,0 +1,95 @@
+{
+    "range": "'Form Responses 1'!A1:N109",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "9/4/2020 19:47:22",
+        "3",
+        "3",
+        "3",
+        "3",
+        "3",
+        "topic was unclear"
+      ],
+      [
+        "9/4/2020 19:48:11",
+        "3",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Could slow down a bit. ",
+        "Story and confidence."
+      ],
+      [
+        "9/4/2020 19:48:36",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "I like that you gave an example from when you were a kid"
+      ],
+      [
+        "9/4/2020 19:48:36",
+        "3",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Try to avoid political topics - they tend to be more criticized and are difficult to do successfully."
+      ],
+      [
+        "9/4/2020 19:49:04",
+        "3",
+        "3",
+        "3",
+        "3",
+        "5",
+        "Add points to your speech to help the audience follow along. ",
+        "Your closing, ’Peace!’ was awesome!"
+      ],
+      [
+        "9/4/2020 19:49:11",
+        "4",
+        "3",
+        "3",
+        "3",
+        "4",
+        "The topic is a bit sensitive. Just trying to be mindful about topics like this.",
+        "Humor"
+      ],
+      [
+        "9/4/2020 21:02:59",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Keep doing great & getting better!",
+        "Great way to use humor at the beginning of the speech to tie us in and keep it light before getting into the meat of the speech which was powerful"
+      ],
+      [
+        "9/5/2020 14:10:25",
+        "3",
+        "3",
+        "3",
+        "3",
+        "5",
+        "Add points to your speech to help the audience follow along. ",
+        "Your closing, ’Peace!’ was awesome!"
+      ]
+    ]
+  }
+  

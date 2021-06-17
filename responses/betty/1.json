@@ -1,0 +1,125 @@
+{
+    "range": "'Form Responses 1'!A1:N112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "2/5/2021 19:31:19",
+        "3",
+        "3",
+        "5",
+        "5",
+        "4"
+      ],
+      [
+        "2/5/2021 19:32:04",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Try making pauses throughout the speech! ",
+        "Great presentation and audience participation "
+      ],
+      [
+        "2/5/2021 19:32:07",
+        "3",
+        "3",
+        "3",
+        "2",
+        "2",
+        "Just keep speaking. This was a unique idea and story.",
+        "How unique the story was. It was an engaging story told well."
+      ],
+      [
+        "2/5/2021 19:32:16",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "conclusion",
+        "Nice story"
+      ],
+      [
+        "2/5/2021 19:32:23",
+        "4",
+        "5",
+        "3",
+        "3",
+        "5",
+        "",
+        "Congrats on your ice breaker speech. You nailed it! Great job :)"
+      ],
+      [
+        "2/5/2021 19:32:45",
+        "2",
+        "2",
+        "3",
+        "3",
+        "3",
+        "Intro was unclear.",
+        "The active questions with the audience. "
+      ],
+      [
+        "2/5/2021 19:32:50",
+        "4",
+        "4",
+        "4",
+        "4",
+        "3",
+        "Perhaps add some connection to you: why are you drawn to this story?  Do you want to believe?",
+        "I thought it was an interesting story"
+      ],
+      [
+        "2/5/2021 19:35:42",
+        "5",
+        "2",
+        "4",
+        "3",
+        "4",
+        "I loved the questions at the end which made it very engaging, but unless I am missing something, I was a bit confused with the structure of the speech - about the questions at the end and how they were connected to the man from Torrid. ",
+        "I loved the speech, Betty and you were super confident. "
+      ],
+      [
+        "2/5/2021 19:38:51",
+        "3",
+        "4",
+        "5",
+        "3",
+        "4",
+        "I was unclear when following the speech - try to add some really simple guidance on what you're talking about, say it once, say it again, and then say it a third time for it to stick!",
+        "I love the topic - that was a good choice!"
+      ],
+      [
+        "2/5/2021 19:41:55",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "",
+        "good overview of the book"
+      ],
+      [
+        "2/5/2021 20:09:40",
+        "2",
+        "4",
+        "3",
+        "3",
+        "4",
+        "This was a different way for speech.  Purpose of speech-introduce self",
+        "story telling"
+      ]
+    ]
+  }
+  

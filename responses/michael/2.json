@@ -1,0 +1,135 @@
+{
+    "range": "'Form Responses 1'!A1:N113",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "1/29/2021 19:37:22",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "I would say that this speech was very well done. I don't think there is anything specific I can think of that you could have done better. I would be curious to know the story behind why you chose to study law but it is not necessary for the speech.",
+        "The speech was very well organized and it kept my attention."
+      ],
+      [
+        "1/29/2021 19:48:28",
+        "5",
+        "4",
+        "3",
+        "4",
+        "4",
+        "",
+        "Slides were helpful in understanding the concepts"
+      ],
+      [
+        "1/29/2021 19:48:32",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "More expressions",
+        "The presentation and learning about stocks and shorts"
+      ],
+      [
+        "1/29/2021 19:48:34",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "1/29/2021 19:48:34",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "None! you are awesome!",
+        "The whole thing. I've tried to understand the GameStop situation with little luck, but you explained it so simply and clearly! I'm a fan! Thank you so much."
+      ],
+      [
+        "1/29/2021 19:48:40",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "clear interpretation of the hot topic of this week, I like it!"
+      ],
+      [
+        "1/29/2021 19:48:46",
+        "4",
+        "5",
+        "3",
+        "3",
+        "5",
+        "You could have put more vocal variety when talking about the price going up for gamestop",
+        "How you build up what stock meant, shorting and putting it all together on what happen to GME."
+      ],
+      [
+        "1/29/2021 19:48:54",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Great choice on topic! Can you explain stocks more next time haha"
+      ],
+      [
+        "1/29/2021 19:50:43",
+        "4",
+        "3",
+        "5",
+        "5",
+        "5",
+        "Maybe add some jokes to keep the topic spicy.",
+        "Good job incorporating hand gestures to the speech."
+      ],
+      [
+        "1/29/2021 19:58:39",
+        "5",
+        "5",
+        "5",
+        "3",
+        "5",
+        "Improve on conclusion, vocal variety",
+        "Nice slides, made complicated topic simple"
+      ],
+      [
+        "1/29/2021 20:09:49",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Maybe confirm that the audience can still see you when you share your screen. Encourage the audience to adjust the zoom setup- so, that they could see your slides and you at the same time",
+        "Great slides, relevant topic for the events this week, way to engage the audience throughout the meeting, and knowledge of your topic."
+      ],
+      [
+        "2/2/2021 16:02:29",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "More eye contact",
+        "Timely topic "
+      ]
+    ]
+  }
+  

@@ -1,0 +1,165 @@
+{
+    "range": "'Form Responses 1'!A1:N116",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "10/2/2020 19:30:41",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "10/2/2020 19:31:02",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Pace and clarity of voice. "
+      ],
+      [
+        "10/2/2020 19:31:10",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Seemed a little rigid in the video ",
+        "Personal anecdotes about procrastination and ending the speech with quote! "
+      ],
+      [
+        "10/2/2020 19:31:25",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Variation in the pace.",
+        "The humor! I love your speech so much! Super fun and attracting!"
+      ],
+      [
+        "10/2/2020 19:31:34",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "",
+        "The humor in the beginning and end"
+      ],
+      [
+        "10/2/2020 19:31:34",
+        "5",
+        "5",
+        "3",
+        "4",
+        "5",
+        "It's hard to ask this of a speech so gloriously done. You should prepare!",
+        "The whole speech could have been done last minute and you pulled it off"
+      ],
+      [
+        "10/2/2020 19:31:46",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "none",
+        "clear and easy to follow along. very cute info"
+      ],
+      [
+        "10/2/2020 19:32:10",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "The content! Really great, and actionable advice."
+      ],
+      [
+        "10/2/2020 19:33:24",
+        "4",
+        "4",
+        "3",
+        "4",
+        "5",
+        "What about engaging the audience some to see if there are any other fellow procrastination?",
+        "Great way to use the word of the day in your speech; smart to talk about an all natural event or story that you're familiar with, good use of hands, & awesome eye contact"
+      ],
+      [
+        "10/2/2020 19:34:02",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "could put more vocal variety",
+        "You as the King of procrastination: I am really glad I made it to hear your speech. Btw you can file extension and get your tax done by 10/15. ohh! the info probably is not helpful for you to get rid of procrastination tho. lol. Great job Natraj. Very humorous speech!!!"
+      ],
+      [
+        "10/2/2020 19:35:32",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Volume variety",
+        "Personal self-deprecation"
+      ],
+      [
+        "10/2/2020 19:35:39",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "More of what I'd love to see next from you as opposed to an opportunity for improvement - I'd like to see you being very casual in tone, may be a powerpoint presentation which throws your rythm off a bit, or a speech along with someone so you don't know what to expect next. ",
+        "Well done, Natraj! Lots of personal touches such as tax anecdote, using audience members like reference to Bella. Funny and calm as always. Very well done!"
+      ],
+      [
+        "10/2/2020 19:40:00",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "None! You were perfect!",
+        "The relatable pictures you painted (boxes still unopened), the humorous quips (even born a day late)"
+      ],
+      [
+        "10/2/2020 19:43:21",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "",
+        "Humor, structure"
+      ],
+      [
+        "10/3/2020 3:59:14",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Volume variety",
+        "Personal self-deprecation"
+      ]
+    ]
+  }
+  

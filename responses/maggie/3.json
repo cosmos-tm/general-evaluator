@@ -1,0 +1,133 @@
+{
+    "range": "'Form Responses 1'!A1:N113",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/2/2021 19:33:54",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "4/2/2021 19:34:35",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4",
+        "More gesture could be good.",
+        "Organization and details. "
+      ],
+      [
+        "4/2/2021 19:34:36",
+        "4",
+        "5",
+        "4",
+        "4",
+        "4",
+        "See grammarian report - you're clear on fillers but made your own personal one.",
+        "I liked the story and comparisons, it flowed well :)!"
+      ],
+      [
+        "4/2/2021 19:34:42",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4",
+        "Try speaking without notes as you would do in person ",
+        "What mentorship means to you loved the explanation "
+      ],
+      [
+        "4/2/2021 19:34:42",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "",
+        "very organized speech and clear"
+      ],
+      [
+        "4/2/2021 19:34:43",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Couldn't see your hands",
+        "Personal aspect of the speech."
+      ],
+      [
+        "4/2/2021 19:34:58",
+        "4",
+        "3",
+        "4",
+        "2",
+        "4",
+        "Including the mentoring in the introduction. ",
+        "The section on mentoring. "
+      ],
+      [
+        "4/2/2021 19:34:58",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Check your view proactively. Your hands were cut off.",
+        "Relateability and use of the WOD!"
+      ],
+      [
+        "4/2/2021 19:35:51",
+        "3",
+        "4",
+        "3",
+        "2",
+        "3",
+        "Stand up when speaking. This may naturally allow you to use more vocal variety and hand movement.",
+        "Great description of a mentor."
+      ],
+      [
+        "4/2/2021 19:36:07",
+        "5",
+        "4",
+        "5",
+        "4",
+        "4"
+      ],
+      [
+        "4/2/2021 19:36:46",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Perhaps make parts of the speech unscripted.",
+        "I liked the personal aspects of the story and the details of you personal story that made connecting to your narrative easier."
+      ],
+      [
+        "4/2/2021 19:44:28",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Maybe see if you can mix up your tones a lil bit throughout speech...",
+        "Personal stories are always the best. Very encouraging topic shared, examples and messaging was on point. Great eye contact with your camera and settle hand movements to help convey speech."
+      ]
+    ]
+  }
+  

@@ -1,0 +1,95 @@
+{
+    "range": "'Form Responses 1'!A1:N109",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "3/12/2021 19:45:45",
+        "4",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Maybe sit a bit further back so we can see your hand gestures.",
+        "Like the example and the motivation words at the end of the speech."
+      ],
+      [
+        "3/12/2021 19:45:48",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Try using 'them' to be more gender neutral instead of 'he, his'.",
+        "The theme and the pacing of the speech"
+      ],
+      [
+        "3/12/2021 19:46:03",
+        "3",
+        "4",
+        "3",
+        "4",
+        "5",
+        "Try to use your voice to add variety to your talk.",
+        "Your props...books, watch, medal, were great!"
+      ],
+      [
+        "3/12/2021 19:46:23",
+        "4",
+        "3",
+        "2",
+        "3",
+        "5",
+        "Perhaps practice the speech a little more; it was not as fluid as your speeches have been in the past.",
+        "I liked your interesting experience working at Sony"
+      ],
+      [
+        "3/12/2021 19:46:25",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "Switch up vocal variety and hand gestures. Consider using visual aids.",
+        "Great job overall. I liked that you showed us the books you had read. You seemed passionate about the topic."
+      ],
+      [
+        "3/12/2021 19:59:27",
+        "4",
+        "5",
+        "3",
+        "3",
+        "4",
+        "Clean-up the use of too many \"Toastmasters\" at the end of the speech. ",
+        "The beginning was excellent with the info on Japan workplace culture."
+      ],
+      [
+        "3/12/2021 20:01:05",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Is there a better way to position speech notes?",
+        "Great eye contact, use of hands, personal story, energy, examples, and items shared."
+      ],
+      [
+        "3/12/2021 20:22:06",
+        "3",
+        "3",
+        "3",
+        "5",
+        "3"
+      ]
+    ]
+  }
+  

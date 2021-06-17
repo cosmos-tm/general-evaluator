@@ -1,0 +1,201 @@
+{
+    "range": "'Form Responses 1'!A1:N120",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "12/11/2020 19:34:53",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "12/11/2020 19:35:02",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Awesome, speech Grant! love your message to 'seek help'"
+      ],
+      [
+        "12/11/2020 19:35:13",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5",
+        "Scan the result to a picture could help us read it better.",
+        "The build up to the result"
+      ],
+      [
+        "12/11/2020 19:35:16",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Awesome inspiring story! Want to check out which areas I would need help too."
+      ],
+      [
+        "12/11/2020 19:35:17",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "",
+        "self-awareness, humor and use of test results as visual aid"
+      ],
+      [
+        "12/11/2020 19:35:27",
+        "5",
+        "4",
+        "3",
+        "4",
+        "5",
+        "",
+        "I liked the personal journey aspect of the speech. Good job!"
+      ],
+      [
+        "12/11/2020 19:35:30",
+        "4",
+        "3",
+        "5",
+        "5",
+        "4",
+        "the theme of the speech topic came a bit late",
+        "findings from personal stories "
+      ],
+      [
+        "12/11/2020 19:35:30",
+        "4",
+        "5",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "12/11/2020 19:35:31",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5"
+      ],
+      [
+        "12/11/2020 19:35:38",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5",
+        "I don't think that showing the piece of paper added to the speech, it would have been better to throw up another digital slide.",
+        "I liked the visual of the testing room at the mid-point of the speech."
+      ],
+      [
+        "12/11/2020 19:35:44",
+        "4",
+        "5",
+        "4",
+        "5",
+        "4",
+        "I thought it was pretty good - maybe you could talk in whispers when conveying a serious point.",
+        "The test results! LOL you definitely have it."
+      ],
+      [
+        "12/11/2020 19:35:49",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Conclusion was a bit short",
+        "Add comedy to a serious topic and good hand gesture"
+      ],
+      [
+        "12/11/2020 19:36:04",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Share how you felt about the diagnosis.",
+        "Your self-deprecation, as always, is refreshing!"
+      ],
+      [
+        "12/11/2020 19:36:06",
+        "4",
+        "3",
+        "3",
+        "3",
+        "5",
+        "Try standing up with your speech next time",
+        "Very encouraging "
+      ],
+      [
+        "12/11/2020 19:36:08",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "I'd suggest to make the beginning more intriguing",
+        "i like the story. Great job!!"
+      ],
+      [
+        "12/11/2020 19:36:12",
+        "3",
+        "3",
+        "3",
+        "4",
+        "3",
+        "Scan your test results so you can better show them.",
+        "Your self deprecating humor was great."
+      ],
+      [
+        "12/11/2020 19:36:33",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Maybe a better camera angle when presenting?",
+        "This story was hilarious. I have ADD as well, and it's reassuring whenever I hear that  it's not just an excuse for adderal. But IDK if adderall is the answer for everyone so I'm not sure how much I agree with the point of the speech.. Especially because the drug changes your brain chemistry and makes you rely on Adderall.. I think forever? "
+      ],
+      [
+        "12/11/2020 19:37:15",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Nothing! Perfect!",
+        "Your bravery in sharing this. I've gone through a somewhat similar process, questioning whether I have ADHD. hopefully I'll find it in myself to speak about it someday :)"
+      ],
+      [
+        "12/11/2020 19:38:55",
+        "4",
+        "4",
+        "4",
+        "5",
+        "4",
+        "Maybe watch your time a lil bit...",
+        "Great topic, energy, use of images, hand movements, and a very helpful overall speech in your story... Excellent!"
+      ]
+    ]
+  }
+  

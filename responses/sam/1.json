@@ -1,0 +1,114 @@
+{
+    "range": "'Form Responses 1'!A1:O110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "Comments on the speaker's style",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "6/5/2020 20:04:32",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5"
+      ],
+      [
+        "6/5/2020 20:05:06",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "You put your listeners at ease with your conversational tone. ",
+        "Add an audience question, perhaps?",
+        "I really appreciated that you modified your speech to really reflect your communication type. Also, loved the stories from highschool and your first speech!"
+      ],
+      [
+        "6/5/2020 20:05:22",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "Interesting to listen to, confident, knowledgeable ",
+        "N/a",
+        "Glimpse into sams storytelling past"
+      ],
+      [
+        "6/5/2020 20:05:35",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "story telling! ",
+        "",
+        "talk about story telling in storying telling style."
+      ],
+      [
+        "6/5/2020 20:05:50",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5",
+        "Great very natural",
+        "Maybe shorter intro so you can focus more on the main points of the speech",
+        "Explain why you like story telling and being open about how it may not be always the best way to communicate."
+      ],
+      [
+        "6/5/2020 20:06:31",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Really like the story telling style.  Would just argue a story doesn't have to be told in a chronological order ;-)",
+        "Really hard to find. Your speech was really excellent",
+        "The introduction"
+      ],
+      [
+        "6/5/2020 20:06:51",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "I liked that you told a story that illustrated your point",
+        "Perhaps incorporate an outside authority eg an academic study or famous speaker",
+        "I liked the story"
+      ],
+      [
+        "6/5/2020 20:17:45",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Style was friendly and informal but very clear.",
+        "",
+        "I could tell you were passionate about the subject. Your inclusion of personal experiences/anecdotes was great."
+      ],
+      [
+        "6/5/2020 20:33:44",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "All natural and way to stick to your who you are as a speaker",
+        "In the intro, maybe just jump right into the speech next time as it seemed like it took you a lil bit to get going there.",
+        "Great topic, authentic-ness of speech, and delivery.  Story telling is definitely your style "
+      ]
+    ]
+  }
+  

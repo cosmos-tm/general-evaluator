@@ -1,123 +1,108 @@
 {
-    "range": "'Form Responses 1'!A1:N112",
-    "majorDimension": "ROWS",
-    "values": [
-      [
-        "Timestamp",
-        "Did the speaker accurately convey the point of the speech?",
-        "How was the structure of the speech?",
-        "How was the speaker's vocal variety?",
-        "How were the speaker's hand gestures?",
-        "Did the speaker appear nervous?",
-        "What are some opportunities for improvement? ",
-        "What was the best part about the speech?"
-      ],
-      [
-        "8/28/2020 19:41:46",
-        "5",
-        "4",
-        "3",
-        "4",
-        "4"
-      ],
-      [
-        "8/28/2020 19:41:47",
-        "5",
-        "5",
-        "5",
-        "5",
-        "5",
-        "",
-        "The insights that you drew on, and explained to us"
-      ],
-      [
-        "8/28/2020 19:41:52",
-        "4",
-        "5",
-        "4",
-        "4",
-        "5"
-      ],
-      [
-        "8/28/2020 19:42:00",
-        "4",
-        "5",
-        "3",
-        "3",
-        "4",
-        "More stories.",
-        "Clear structure"
-      ],
-      [
-        "8/28/2020 19:42:02",
-        "5",
-        "5",
-        "5",
-        "4",
-        "5",
-        "",
-        "very simple and concrete presentation "
-      ],
-      [
-        "8/28/2020 19:42:35",
-        "4",
-        "5",
-        "4",
-        "3",
-        "5",
-        "Nice to repeat your points during your conclusion instead of having people read the slides",
-        "Slides are simple and clear with insight to each one"
-      ],
-      [
-        "8/28/2020 19:42:43",
-        "5",
-        "5",
-        "4",
-        "5",
-        "4",
-        "An anecdote would've been nice. ",
-        "10/10 on the speech structure and preparation. A really professional speech from a really experienced speaker. Great preparation. You followed the rule of 3. Great speech, Wing!"
-      ],
-      [
-        "8/28/2020 19:43:31",
-        "5",
-        "4",
-        "3",
-        "3",
-        "5",
-        "Instead of giving a summary, it would have been nice to introduce those 3 keys",
-        "Thanks for sharing that Wing. I liked that you spoke about whats necessary to be a good teacher. You spoke clearly and carefully. Great job!"
-      ],
-      [
-        "8/28/2020 19:44:33",
-        "4",
-        "4",
-        "3",
-        "3",
-        "4",
-        "Why not engage the audience some with a few questions at the beginning of your speech and take a few answers, ie. Has any one ever been a TA?",
-        "Great slides and hearing about what you've learned about yourself through your experience of being a TA. "
-      ],
-      [
-        "8/28/2020 19:45:07",
-        "5",
-        "4",
-        "3",
-        "4",
-        "5",
-        "You ended by saying teaching as a career is not for you.  It would have been interesting how you came to that and what is the lesson there for the audience.",
-        "I liked your frank and personal perspective that came out in the speech.  You seemed to capture lessons you learned the hard way."
-      ],
-      [
-        "8/28/2020 20:14:48",
-        "5",
-        "5",
-        "4",
-        "4",
-        "5",
-        "More vocal variety  and more of a tie-in at the end.",
-        "Information was presented in a clear and concise way."
-      ]
+  "range": "'Form Responses 1'!A1:N111",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Timestamp",
+      "Did the speaker accurately convey the point of the speech?",
+      "How was the structure of the speech?",
+      "How was the speaker's vocal variety?",
+      "How were the speaker's hand gestures?",
+      "Did the speaker appear nervous?",
+      "What are some opportunities for improvement? ",
+      "What was the best part about the speech?"
+    ],
+    [
+      "8/21/2020 19:43:06",
+      "5",
+      "5",
+      "4",
+      "5",
+      "5"
+    ],
+    [
+      "8/21/2020 19:43:29",
+      "4",
+      "5",
+      "4",
+      "3",
+      "4"
+    ],
+    [
+      "8/21/2020 19:43:43",
+      "3",
+      "4",
+      "5",
+      "4",
+      "5",
+      "Maybe clarity in the points.",
+      "Asking someone to read the dialog. "
+    ],
+    [
+      "8/21/2020 19:43:46",
+      "5",
+      "5",
+      "3",
+      "3",
+      "5"
+    ],
+    [
+      "8/21/2020 19:43:48",
+      "5",
+      "5",
+      "3",
+      "3",
+      "5"
+    ],
+    [
+      "8/21/2020 19:44:10",
+      "5",
+      "5",
+      "4",
+      "3",
+      "5",
+      "Would have liked to hear more about the struggles you faced with leading",
+      "I liked that you spoke about sports , strongest and weakest links"
+    ],
+    [
+      "8/21/2020 19:44:12",
+      "5",
+      "5",
+      "4",
+      "3",
+      "5",
+      "Try to use hand gestures ",
+      "Talking about the book and describing the concept such that it is easy to understand"
+    ],
+    [
+      "8/21/2020 19:44:57",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "",
+      "Nice speech, good vocal variety,humor"
+    ],
+    [
+      "8/21/2020 19:45:18",
+      "5",
+      "4",
+      "3",
+      "3",
+      "5",
+      "I think it would have been good to go more into how you came to realize this approach you felt was most appropriate to your lessons: there are a lot of books any styles to teaching.",
+      "I liked the specific examples and how you demonstrated your teaching style with KK."
+    ],
+    [
+      "8/21/2020 19:50:42",
+      "5",
+      "4",
+      "4",
+      "4",
+      "5",
+      "Let’s see those hands. Gestures were hidden. ",
+      "The various cooking, sports, and teaching linkages were quite insightful. "
     ]
-  }
-  
+  ]
+}

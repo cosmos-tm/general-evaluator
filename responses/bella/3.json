@@ -1,0 +1,147 @@
+{
+    "range": "'Form Responses 1'!A1:N115",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "10/23/2020 19:44:57",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "10/23/2020 19:44:59",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "10/23/2020 19:44:59",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "10/23/2020 19:45:02",
+        "4",
+        "4",
+        "5",
+        "3",
+        "4"
+      ],
+      [
+        "10/23/2020 19:45:40",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "",
+        "Story and lesson"
+      ],
+      [
+        "10/23/2020 19:45:45",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Could have added some hand gesture to the talk",
+        "Having visuals to the story to really make it easy to understand."
+      ],
+      [
+        "10/23/2020 19:45:48",
+        "5",
+        "5",
+        "5",
+        "3",
+        "3",
+        "Pause at the dramatic moment.",
+        "The vivid description."
+      ],
+      [
+        "10/23/2020 19:45:48",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "nothing",
+        "it's really like bed time story that bring me back to kid."
+      ],
+      [
+        "10/23/2020 19:46:02",
+        "4",
+        "5",
+        "4",
+        "4",
+        "4",
+        "I can see some small pronunciation improvement! ",
+        "The ending of the speech is really great!"
+      ],
+      [
+        "10/23/2020 19:46:02",
+        "5",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "10/23/2020 19:46:02",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Smooth out any pauses / transitions",
+        "I loved the story and pictures -- it really made your speech engaging"
+      ],
+      [
+        "10/23/2020 19:46:02",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4",
+        "Sounded great, I only gave a 4 because the speech sounded a bit formal.",
+        "The structure and ending, loved the use of graphics. You are very good at story telling!"
+      ],
+      [
+        "10/23/2020 19:46:30",
+        "5",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Perhaps why this seemed an important lesson to you?  Is this something that has changed your approach?",
+        "I liked your visible excitement about the topic."
+      ],
+      [
+        "10/23/2020 19:50:20",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Could you have advised the audience to move their camera icons to the upper left or right of their screens so they could see you while you were going through you slides?",
+        "Awesome story, loved the slides you shared along with the images to describe your speech"
+      ]
+    ]
+  }
+  

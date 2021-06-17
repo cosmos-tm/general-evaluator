@@ -1,0 +1,182 @@
+{
+    "range": "'Form Responses 1'!A1:N118",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "7/31/2020 19:37:17",
+        "2",
+        "2",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "7/31/2020 19:37:29",
+        "4",
+        "3",
+        "5",
+        "5",
+        "5",
+        "",
+        "The interactive nature!"
+      ],
+      [
+        "7/31/2020 19:37:36",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "7/31/2020 19:37:48",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "maybe try present in new PC XD",
+        "getting feedback"
+      ],
+      [
+        "7/31/2020 19:37:54",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Have someone else record responses as you engaged the audience with questions. ",
+        "Creativity abounded!"
+      ],
+      [
+        "7/31/2020 19:37:54",
+        "5",
+        "4",
+        "5",
+        "3",
+        "5",
+        "Cmon Ime, you don't need notes!",
+        "Seeing that Ime used notes, by far"
+      ],
+      [
+        "7/31/2020 19:37:59",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Would have been nice to hear your take on it too!",
+        "Nice interactive session!"
+      ],
+      [
+        "7/31/2020 19:38:04",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Not much content ",
+        "Presentation style and ease of speech"
+      ],
+      [
+        "7/31/2020 19:38:04",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Very engaging and loved the audience participation! "
+      ],
+      [
+        "7/31/2020 19:38:05",
+        "5",
+        "3",
+        "4",
+        "4",
+        "3",
+        "practice how to share the presentation before the speech "
+      ],
+      [
+        "7/31/2020 19:38:10",
+        "4",
+        "5",
+        "4",
+        "5",
+        "4",
+        "Make yourself more familiar with the technology used to present your speech",
+        "The interractive style"
+      ],
+      [
+        "7/31/2020 19:38:11",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Restrict the amount of time per question to allow you to spend more time on the final question",
+        "It gets the whole club involved and also educates the members of the role"
+      ],
+      [
+        "7/31/2020 19:38:14",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5",
+        "The questions need to be in bold.",
+        "The intent"
+      ],
+      [
+        "7/31/2020 19:38:21",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Time management would help with better delivery towards the end of the speech, maybe a better polling UI",
+        "The polling was good. "
+      ],
+      [
+        "7/31/2020 19:38:24",
+        "5",
+        "5",
+        "5",
+        "3",
+        "5",
+        "Work out any tech issues before the speech",
+        "Interactivity, great rapport with audience, vocal variety and content shared. Super useful and made a great case for why you'd be a great secretary! "
+      ],
+      [
+        "7/31/2020 19:38:52",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "",
+        "the structure was very unique "
+      ],
+      [
+        "8/1/2020 7:51:39",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Have someone else record responses as you engaged the audience with questions. ",
+        "Creativity abounded!"
+      ]
+    ]
+  }
+  

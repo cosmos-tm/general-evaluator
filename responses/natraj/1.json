@@ -1,0 +1,111 @@
+{
+    "range": "'Form Responses 1'!A1:N111",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "9/11/2020 19:33:57",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "9/11/2020 19:34:21",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "9/11/2020 19:34:23",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4",
+        "Stand up and move around a bit. To simulate the in person speech",
+        "Very wise and well thought content."
+      ],
+      [
+        "9/11/2020 19:34:40",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Conclusion felt a bit short",
+        "Really enjoy the introduction, really pull people in and visuals provided by the word of choice"
+      ],
+      [
+        "9/11/2020 19:34:44",
+        "5",
+        "4",
+        "4",
+        "5",
+        "5",
+        "What was your second point?",
+        "Using walking to clear your mind could actually entice one to do more walking. "
+      ],
+      [
+        "9/11/2020 19:34:45",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "more movements - hand gestures",
+        "time is the answer to some problems in life -- I love this message"
+      ],
+      [
+        "9/11/2020 19:34:53",
+        "5",
+        "5",
+        "5",
+        "5",
+        "4",
+        "nope ",
+        "very clear to the point."
+      ],
+      [
+        "9/11/2020 19:35:26",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Pacing and structure, as well as content shared"
+      ],
+      [
+        "9/11/2020 19:42:31",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "9/11/2020 19:45:53",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Maybe see if you can mix up your tones a lil bit and use your hands where you see best fit to really convey your speech with a lil more passion.",
+        "Really like your personal story shared as it made your speech very natural and interesting. "
+      ]
+    ]
+  }
+  

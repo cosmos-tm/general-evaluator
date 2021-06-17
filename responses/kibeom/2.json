@@ -1,0 +1,119 @@
+{
+    "range": "'Form Responses 1'!A1:N112",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "2/19/2021 19:28:32",
+        "4",
+        "4",
+        "3",
+        "2",
+        "4"
+      ],
+      [
+        "2/19/2021 19:31:32",
+        "5",
+        "5",
+        "4",
+        "2",
+        "5",
+        "Use your hands/position the camera to show your hands. ",
+        "Your personal sharing is always so engaging!"
+      ],
+      [
+        "2/19/2021 19:32:29",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "2/19/2021 19:32:51",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4"
+      ],
+      [
+        "2/19/2021 19:33:00",
+        "3",
+        "3",
+        "3",
+        "3",
+        "5",
+        "The speech could have been more focused. ",
+        "I enjoyed hearing about how mentorship was meaningful to you."
+      ],
+      [
+        "2/19/2021 19:33:01",
+        "3",
+        "3",
+        "3",
+        "2",
+        "4"
+      ],
+      [
+        "2/19/2021 19:33:07",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Can provide more excitement when talking about the individual mentors, a way to stretch your vocal variety. Couldn't see hands.",
+        "Like how you gave 3 points and thoughtful ending with everyone is a mentee and mentor."
+      ],
+      [
+        "2/19/2021 19:34:00",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "The end left me wanting more, could you expand more on the \"wearing two hats\" aspect of the speech? A longer, more detailed narrative or anecdote about the mentor that inspires you most would add color to your speech.",
+        "The confidence with which you spoke"
+      ],
+      [
+        "2/19/2021 19:59:13",
+        "4",
+        "5",
+        "3",
+        "4",
+        "5",
+        "Add more inflections and humor - that would help with holding attention.",
+        "I liked the topic, and how you talked about how you felt about a mentor, needing one, and all of the content like that. That's a good pitch for mentoring!"
+      ],
+      [
+        "2/19/2021 20:21:00",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "A lil more vocal variety throughout speech.",
+        "Well written speech about a real life relationship you have with your mentor and the positives that have come from your life with that relationship. Good way to engage the audience a lil bit at the beginning of your speech as well."
+      ],
+      [
+        "2/20/2021 10:30:20",
+        "5",
+        "5",
+        "4",
+        "2",
+        "5",
+        "Use your hands/position the camera to show your hands. ",
+        "Your personal sharing is always so engaging!"
+      ]
+    ]
+  }
+  

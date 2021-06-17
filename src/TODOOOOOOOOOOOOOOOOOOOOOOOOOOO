@@ -1,0 +1,8 @@
+1. Use SearchBox for searching with nice icon
+2. Make sticky notes for best parts
+3. When TextField is empty, show an animation for the first pivot
+4. What is the search results component in Sharepoint?
+5. const at the top, private inside the class?
+6. diff b/w <> and </>
+7. Use .scss file
+8. Split to App.module.css and something else.scss

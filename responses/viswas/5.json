@@ -1,0 +1,115 @@
+{
+    "range": "'Form Responses 1'!A1:N111",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "10/30/2020 19:33:59",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "10/30/2020 19:34:19",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "none",
+        "improve so much"
+      ],
+      [
+        "10/30/2020 19:34:34",
+        "4",
+        "4",
+        "4",
+        "5",
+        "5",
+        "Could add summary at the beginning.",
+        "feedback story. "
+      ],
+      [
+        "10/30/2020 19:34:45",
+        "4",
+        "4",
+        "3",
+        "5",
+        "5",
+        "Increase vocal variety.",
+        "Great examples of feedback that we can all apply."
+      ],
+      [
+        "10/30/2020 19:34:50",
+        "4",
+        "4",
+        "5",
+        "5",
+        "4",
+        "I feel the main purpose of the speech could be emphasized, and it's related to the structure that's why they're both a 4.",
+        "I love the content!"
+      ],
+      [
+        "10/30/2020 19:34:55",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5",
+        "Couldn't see your hands as much since you were closer to the screen. Conclusion felt a bit short.",
+        "Breaking it down to 3 points and question to engage everyone"
+      ],
+      [
+        "10/30/2020 19:35:10",
+        "3",
+        "2",
+        "2",
+        "3",
+        "2",
+        "Your have a good frame work for a speech on the importance of feedback. Try to add more and practice.",
+        "Your examples."
+      ],
+      [
+        "10/30/2020 19:41:23",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "As best you can, practice pausing instead of saying um or ah...",
+        "Great topic and way to engage the audience to bring them into your speech. Awesome hand movements; Good enthusiasm throughout, & very helpful  "
+      ],
+      [
+        "10/30/2020 19:45:01",
+        "5",
+        "5",
+        "4",
+        "5",
+        "5",
+        "Slides or visual aids could enhance the presentation or emphasize certain points",
+        "Good use of audience participation. Really great content and advice for utilizing feedback"
+      ],
+      [
+        "10/30/2020 20:06:01",
+        "5",
+        "3",
+        "2",
+        "4",
+        "5",
+        "Perhaps include the differences between positive and negative feedback (it is estimated positive feedback is 4X more effective in dog training)",
+        "I liked how clearly you connected to the topic and truly believed in the value."
+      ]
+    ]
+  }
+  

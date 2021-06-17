@@ -1,0 +1,141 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "8/21/2020 19:34:44",
+        "4",
+        "3",
+        "4",
+        "3",
+        "4",
+        "Great job!",
+        "I want to buy the book now!"
+      ],
+      [
+        "8/21/2020 19:34:45",
+        "5",
+        "3",
+        "4",
+        "3",
+        "5"
+      ],
+      [
+        "8/21/2020 19:35:05",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "8/21/2020 19:39:22",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "8/21/2020 19:43:33",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "",
+        "Great job Bella!! "
+      ],
+      [
+        "8/21/2020 19:43:53",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "",
+        "Great speech!!"
+      ],
+      [
+        "8/21/2020 19:44:06",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "",
+        "Using an anecdote as a prelude! A very interesting strategy."
+      ],
+      [
+        "8/21/2020 19:45:09",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Summarizing your 3 points in your conclusion.",
+        "Follow the rule of 3 and have the book as a prop"
+      ],
+      [
+        "8/21/2020 19:45:42",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "More hand gestures",
+        "You were so excited to make this speech! I loved the topic and want to read this book now\n"
+      ],
+      [
+        "8/21/2020 19:46:33",
+        "5",
+        "4",
+        "3",
+        "4",
+        "4",
+        "",
+        "One of your best speeches, Bella! Loved how you were smiley throughout. When you are \"selling\" something like you were selling this book in this speech, it is very important to convey that you'd use it, and the fact that you genuinely enjoyed the speech came through very well. I want to go back and read the book. You don't need this book though like the guy in the Airport told you. "
+      ],
+      [
+        "8/21/2020 19:47:27",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Try to angle the camera to include your hands for gesture purposes. ",
+        "Your enthusiasm was palpable. Thank you!"
+      ],
+      [
+        "8/21/2020 19:54:07",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Perhaps tell more jokes and stories from the book? Or, perhaps why the anecdote about his father resonated so much with you.",
+        "I liked the connection to your personal experience and how clearly you are excited by the book you discussed."
+      ],
+      [
+        "8/21/2020 20:09:18",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5",
+        "",
+        "I could tell you really liked the book -- your enthusiasm is infectious!"
+      ]
+    ]
+  }
+  

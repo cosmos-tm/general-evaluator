@@ -1,0 +1,89 @@
+{
+    "range": "'Form Responses 1'!A1:N109",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/23/2021 19:46:47",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "4/23/2021 19:47:04",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Practice, lol",
+        "The lines!"
+      ],
+      [
+        "4/23/2021 19:47:12",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "4/23/2021 19:47:36",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "4/23/2021 19:47:51",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Would have been nice if you sat back a bit so we can see your hand gesture a bit more.",
+        "Your focus on the camera is good and strong start and end to the speech"
+      ],
+      [
+        "4/23/2021 19:47:54",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Great use of story structure and building suspense. Great use of eye contact and vocal variety."
+      ],
+      [
+        "4/23/2021 19:48:53",
+        "4",
+        "3",
+        "4",
+        "3",
+        "3"
+      ],
+      [
+        "4/23/2021 20:04:13",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5",
+        "Perhaps give your audience a call to action at the end.",
+        "As usual, your personal details and personality really comes out in your speeches and this one was no exception."
+      ]
+    ]
+  }
+  

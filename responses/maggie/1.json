@@ -1,0 +1,104 @@
+{
+    "range": "'Form Responses 1'!A1:N110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "10/30/2020 19:44:25",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "I was hoping to see the voting results in numbers.",
+        "Good structure and clarity. "
+      ],
+      [
+        "10/30/2020 19:44:37",
+        "3",
+        "3",
+        "2",
+        "2",
+        "2",
+        "When using power point run it in slide mode so we cannot see the previous o current slides.",
+        "The powerpoint presentation"
+      ],
+      [
+        "10/30/2020 19:44:38",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Put PowerPoint into presentation mode.",
+        "Great facts and chronological progression!"
+      ],
+      [
+        "10/30/2020 19:44:39",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Didn't see much hand movements, been nice to summarized what you want people to take a way since you provided a lot of info",
+        "Great information and some history on how voting works as well."
+      ],
+      [
+        "10/30/2020 19:44:46",
+        "4",
+        "5",
+        "4",
+        "4",
+        "3",
+        "I loved your speech, and I'm really interested in educational presentations like this. Thank you! I would connect vocal variety with nervousness"
+      ],
+      [
+        "10/30/2020 19:45:23",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "10/30/2020 19:56:44",
+        "4",
+        "4",
+        "5",
+        "4",
+        "5",
+        "It would be great to hear more of your personal experience with or opinion of the current system.",
+        "I liked the concise explanation of how voting works."
+      ],
+      [
+        "10/30/2020 20:33:44",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "",
+        "Well done, Maggie! A very broad topic but you summarized it great and also inserted the fun voting exercise. "
+      ],
+      [
+        "10/30/2020 22:09:06",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "What about mixing up your tones some and use hand gestures a lil more?",
+        "Awesome topic for the time of year, great slides shared, used eye contact well, researched topic, & appreciated the information - including your call to action to close your speech."
+      ]
+    ]
+  }
+  

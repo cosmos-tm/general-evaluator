@@ -1,0 +1,153 @@
+{
+    "range": "'Form Responses 1'!A1:N115",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "1/8/2021 19:32:59",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "1/8/2021 19:33:03",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "1/8/2021 19:33:10",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "None, awesome speech.",
+        "The introductory image."
+      ],
+      [
+        "1/8/2021 19:33:28",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "GTFO 2020 in Chinese"
+      ],
+      [
+        "1/8/2021 19:33:38",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Perhaps give more examples on each point ",
+        "Great optimistic new year speech! Inspiring! "
+      ],
+      [
+        "1/8/2021 19:33:47",
+        "5",
+        "5",
+        "4",
+        "3",
+        "5",
+        "Didn't see any hand gesture",
+        "Simple points and examples from your life."
+      ],
+      [
+        "1/8/2021 19:33:51",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Move camera so that it shows you’re looking straight at the audience.",
+        "Optimistic message"
+      ],
+      [
+        "1/8/2021 19:33:54",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "PPT was distracting",
+        "Structure, personal experience, positivity "
+      ],
+      [
+        "1/8/2021 19:34:25",
+        "5",
+        "4",
+        "4",
+        "3",
+        "5",
+        "Tie in chat responses. ",
+        "Chinese phrase was cool!"
+      ],
+      [
+        "1/8/2021 19:34:47",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Great personal experience combined with the speech topic"
+      ],
+      [
+        "1/8/2021 19:34:51",
+        "4",
+        "4",
+        "3",
+        "2",
+        "4",
+        "It seems you were reading from something. Try memorizing a bit more and then you can use your hands an d vocal variety more.",
+        "Your message was clear and uplifting."
+      ],
+      [
+        "1/8/2021 19:35:30",
+        "5",
+        "5",
+        "5",
+        "4",
+        "5",
+        "",
+        "Simple, clear slides and message."
+      ],
+      [
+        "1/8/2021 19:35:55",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5",
+        "I enjoy the mandarin, I actually caught some of it! Please speak that slower for us non natives. (2 0 2 0 aha!!)",
+        "I liked the uplifting nature of 2020 and moving teams, I wish I could do that too."
+      ],
+      [
+        "1/8/2021 19:41:42",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "When sharing your screen...What about verifying that everyone can still see you as well?",
+        "Authentic personal story of a challenging year in a lot of way - but, was highlighted by the many good things that happen for your personally. Great slides shared and interactive section at the start of your speech with your audience. Really engaging!"
+      ]
+    ]
+  }
+  

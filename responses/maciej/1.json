@@ -1,0 +1,101 @@
+{
+    "range": "'Form Responses 1'!A1:N110",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "11/20/2020 19:31:55",
+        "4",
+        "4",
+        "5",
+        "3",
+        "4"
+      ],
+      [
+        "11/20/2020 19:32:11",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5"
+      ],
+      [
+        "11/20/2020 19:32:29",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Vocal variety could enhance speech. ",
+        "Interesting topic!"
+      ],
+      [
+        "11/20/2020 19:32:41",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "Some examples would be useful. ",
+        "Pace, and topic. "
+      ],
+      [
+        "11/20/2020 19:32:42",
+        "5",
+        "5",
+        "5",
+        "4",
+        "4",
+        "A good anecdote about why this is interesting to you or how it can be related to present times",
+        "I like the philosophy behing the original position. Thanks for sharing"
+      ],
+      [
+        "11/20/2020 19:32:48",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "11/20/2020 19:32:48",
+        "5",
+        "5",
+        "4",
+        "5",
+        "4",
+        "Just slight hint of nervousness and I think that led to pauses. possibly graphics?",
+        "I loved the intro! and theme!"
+      ],
+      [
+        "11/20/2020 19:32:53",
+        "4",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Nice to share your opinion on it and didn't get to see your hands",
+        "Good detail on the speech."
+      ],
+      [
+        "11/20/2020 20:40:41",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Could you have shared some slides as well to go with your speech?",
+        "Great topic, very informative, and well thought out speech. Like how you spoke with confidence as well"
+      ]
+    ]
+  }
+  

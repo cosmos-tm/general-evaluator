@@ -1,0 +1,143 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "1/15/2021 19:47:34",
+        "5",
+        "5",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "1/15/2021 19:47:36",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "nice PPT and great delivery "
+      ],
+      [
+        "1/15/2021 19:47:45",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5"
+      ],
+      [
+        "1/15/2021 19:47:58",
+        "3",
+        "3",
+        "3",
+        "3",
+        "2",
+        "Breath, take a breath to slow yourself down.",
+        "It was authentic and purpose driven."
+      ],
+      [
+        "1/15/2021 19:48:05",
+        "4",
+        "4",
+        "3",
+        "3",
+        "3",
+        "Keep doing great & getting better!",
+        "Great Slides shares, eye contact was good, smile, content shared throughout, and authentic story about yourself."
+      ],
+      [
+        "1/15/2021 19:48:31",
+        "5",
+        "5",
+        "4",
+        "5",
+        "4",
+        "You were speaking a bit fast, some modulation or slowing down to emphasize certain points I think would bolster your speech",
+        "The humerous and personal information shared, and awesome visuals of the IceBreaker unicorn!"
+      ],
+      [
+        "1/15/2021 19:48:35",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Were slides really needed for your presentation, I personal thought you would have been more effective without them since people can see you speak.",
+        "Slides were easy to follow and really focused"
+      ],
+      [
+        "1/15/2021 19:48:47",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "Only to be nitpicky -- I think the images on the slides weren't about what you were speaking then",
+        "The whole flow and pace! You had me hooked"
+      ],
+      [
+        "1/15/2021 19:48:50",
+        "4",
+        "3",
+        "4",
+        "4",
+        "5",
+        "Maybe shorten the the beginning of your story a little bit. Make the journey of chasing dreams more concise.",
+        "Great start as an ice breaker speech! Your presentation skills does not look poor at all as what you mentioned in your speech. You have a very good structure and you inspired every audience in the end. I got inspired a lot. Thanks!"
+      ],
+      [
+        "1/15/2021 19:48:53",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Great speech Tessa! The only thing I can think of is pace - It was very engaging, but you could try to change the pace of your speech to draw us in and surprise us.",
+        "A very inspiring ice breaker, wonderful presentation!"
+      ],
+      [
+        "1/15/2021 19:49:33",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "Slow down.",
+        "Your energy and openness were awesome."
+      ],
+      [
+        "1/15/2021 19:50:05",
+        "5",
+        "5",
+        "4",
+        "5",
+        "3",
+        "There are studies that prove participants believing in negative or positive stereotypes about themselves are more likely to perform either well or badly! Believe you can do this! It sounds like you're very hard on yourself as am I",
+        "I think this was one of the best examples of great speech structure and conveying the point of the speech I've heard during my time in TM! I would say the only negative is the negative self talk that I think affects your performance."
+      ],
+      [
+        "1/15/2021 19:50:32",
+        "3",
+        "4",
+        "3",
+        "2",
+        "2",
+        "don't leave slides up for the entire speech",
+        "nice slides"
+      ]
+    ]
+  }
+  

@@ -1,0 +1,133 @@
+{
+    "range": "'Form Responses 1'!A1:N113",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/9/2021 19:32:36",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "4/9/2021 19:32:47",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Not looking at your notes ",
+        "Great inspiration and focused speech! Who are you? I know you! "
+      ],
+      [
+        "4/9/2021 19:33:02",
+        "4",
+        "4",
+        "5",
+        "5",
+        "3",
+        "The introduction was a bit detached from the core speech, maybe reconcile those?",
+        "I liked the head bobbing to the left then to the right, that made it clear who was speaking!"
+      ],
+      [
+        "4/9/2021 19:33:20",
+        "5",
+        "5",
+        "4",
+        "4",
+        "3",
+        "Connecting with the audience; less reading.",
+        "The structure of the speech was excellent and easy to follow."
+      ],
+      [
+        "4/9/2021 19:33:25",
+        "4",
+        "5",
+        "5",
+        "5",
+        "4",
+        "Connection of the story between segments. ",
+        "Story structure. "
+      ],
+      [
+        "4/9/2021 19:33:28",
+        "4",
+        "4",
+        "3",
+        "3",
+        "4"
+      ],
+      [
+        "4/9/2021 19:33:41",
+        "4",
+        "3",
+        "3",
+        "3",
+        "5",
+        "Outline your talk",
+        "Childhood sharing"
+      ],
+      [
+        "4/9/2021 19:33:45",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "",
+        "The topic, was very thoughtful and made a thing about my believes "
+      ],
+      [
+        "4/9/2021 19:34:00",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Loved the message!! a very important and timely speech! Loved the action plan and how you tied the ending back to the beginning :) "
+      ],
+      [
+        "4/9/2021 19:35:22",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "Some of the word usage such as third instead of thirdly.",
+        "Your conclusion was direct and powerful! Your opening was great!"
+      ],
+      [
+        "4/9/2021 23:13:26",
+        "4",
+        "4",
+        "4",
+        "4",
+        "3",
+        "Preparation and positioning of notes.",
+        "Great structure, playing the different roles, personal story of your life experience, the content was clear and concise, and the speech has potential to win a club contest someday! "
+      ],
+      [
+        "4/10/2021 18:39:31",
+        "4",
+        "3",
+        "3",
+        "3",
+        "5",
+        "Outline your talk",
+        "Childhood sharing"
+      ]
+    ]
+  }
+  

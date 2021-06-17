@@ -1,0 +1,139 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "5/21/2021 19:45:45",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "5/21/2021 19:45:58",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "5/21/2021 19:46:05",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "5/21/2021 19:46:06",
+        "5",
+        "5",
+        "3",
+        "3",
+        "5",
+        "Vocal variety",
+        "Images were captivating!"
+      ],
+      [
+        "5/21/2021 19:46:18",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Photo quality haha ",
+        "Convinced! "
+      ],
+      [
+        "5/21/2021 19:46:25",
+        "5",
+        "4",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "5/21/2021 19:46:32",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "You are the inspiration!!!!! i love your story "
+      ],
+      [
+        "5/21/2021 19:46:59",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5",
+        "",
+        "Smooth transition between slides and video, topic with good vibe"
+      ],
+      [
+        "5/21/2021 19:47:25",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "maybe more detail description ? elaborate the interaction part",
+        "cute pic "
+      ],
+      [
+        "5/21/2021 19:47:37",
+        "5",
+        "4",
+        "5",
+        "4",
+        "5",
+        "",
+        "I liked your vocal variety, the photos nicely accompanied your speach."
+      ],
+      [
+        "5/21/2021 19:48:25",
+        "4",
+        "4",
+        "5",
+        "3",
+        "5",
+        "Shorten it a bit, there were points for humor that were missed like the long list, More humor juxtaposed with the sadness of giving up your dog, then the picture of how you helped someone.",
+        "The purpose of the speech."
+      ],
+      [
+        "5/21/2021 20:03:03",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "amazing, golden, best evar",
+        "whole thing. you da man. Ahaha :D"
+      ],
+      [
+        "5/21/2021 20:03:43",
+        "4",
+        "4",
+        "3",
+        "4",
+        "4",
+        "Maybe mix up your hand gestures and tones a lil more...?",
+        "Personal stories are the best, great dog trainer you are, nice way to share pics, excellent energy, great eye contact, and overall structure.  "
+      ]
+    ]
+  }
+  

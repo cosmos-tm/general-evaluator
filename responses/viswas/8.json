@@ -1,0 +1,73 @@
+{
+    "range": "'Form Responses 1'!A1:N107",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "4/23/2021 19:38:06",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4"
+      ],
+      [
+        "4/23/2021 19:38:14",
+        "3",
+        "3",
+        "2",
+        "3",
+        "5",
+        "Personally, I was not a fan of the topic.",
+        "You seemed very knowledgable."
+      ],
+      [
+        "4/23/2021 19:38:14",
+        "3",
+        "4",
+        "4",
+        "5",
+        "5",
+        "Would be nice to go back to initial question of if bitcoin will make you rich",
+        "Simplifying the idea of bitcoin and comparison to banana economy and changing article title"
+      ],
+      [
+        "4/23/2021 19:38:19",
+        "5",
+        "5",
+        "4",
+        "4",
+        "5",
+        "Visual aids / slides could have illustrated some points more.",
+        "You are clearly knowledgable about the subject and explained it well. You made an abstract concept easier to comprehend."
+      ],
+      [
+        "4/23/2021 19:40:29",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      [
+        "4/23/2021 19:43:27",
+        "5",
+        "4",
+        "3",
+        "3",
+        "4",
+        "Since there was a technical aspect to your presentation, perhaps use a slide show.",
+        "I liked your analogy to changing a historical copy of the New York Times "
+      ]
+    ]
+  }
+  

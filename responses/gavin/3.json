@@ -1,0 +1,143 @@
+{
+    "range": "'Form Responses 1'!A1:N114",
+    "majorDimension": "ROWS",
+    "values": [
+      [
+        "Timestamp",
+        "Did the speaker accurately convey the point of the speech?",
+        "How was the structure of the speech?",
+        "How was the speaker's vocal variety?",
+        "How were the speaker's hand gestures?",
+        "Did the speaker appear nervous?",
+        "What are some opportunities for improvement? ",
+        "What was the best part about the speech?"
+      ],
+      [
+        "8/28/2020 19:32:59",
+        "4",
+        "3",
+        "4",
+        "4",
+        "5"
+      ],
+      [
+        "8/28/2020 19:33:12",
+        "4",
+        "3",
+        "5",
+        "4",
+        "5"
+      ],
+      [
+        "8/28/2020 19:33:21",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "",
+        "Accents"
+      ],
+      [
+        "8/28/2020 19:33:27",
+        "5",
+        "4",
+        "5",
+        "3",
+        "4",
+        "More examples!",
+        "The race (rice) engineer was a very good example"
+      ],
+      [
+        "8/28/2020 19:33:29",
+        "4",
+        "5",
+        "4",
+        "3",
+        "5",
+        "I felt like the conclusion was a bit short",
+        "The story was really good and was funny"
+      ],
+      [
+        "8/28/2020 19:33:54",
+        "4",
+        "4",
+        "5",
+        "3",
+        "4",
+        "Incorporate more vocal varieties. The part that you mimic Australian accent is great. Hope you can do more.",
+        "The part on confusion about 'rice engineer'"
+      ],
+      [
+        "8/28/2020 19:34:04",
+        "4",
+        "4",
+        "4",
+        "3",
+        "4",
+        "Engage the audience some by asking questions in relation to your speech topic",
+        "The impersonations were great and the overall message of the speech was powerful."
+      ],
+      [
+        "8/28/2020 19:34:05",
+        "4",
+        "5",
+        "4",
+        "3",
+        "4",
+        "Maybe more vocal variety to make the speech more dramatic :)",
+        "I like your smile when you presented your speech."
+      ],
+      [
+        "8/28/2020 19:36:14",
+        "5",
+        "4",
+        "3",
+        "3",
+        "5",
+        "I wasn't clear on the lesson of the story (though it was a charming story). Was the message don't miss out on cool conversation because of accents? ",
+        "I liked the casual and personal style of the speech."
+      ],
+      [
+        "8/28/2020 19:36:30",
+        "5",
+        "4",
+        "5",
+        "5",
+        "5",
+        "May be a couple of strong points would've been nice, since it's a speech after all, such as your learnings, and a conclusion. A bit more work on the speech structure for this speech. ",
+        "Insanely entertaining speech. Voice modulation was off the charts. The accent/impersonation was the life of the speech. Your delivery was casual which was perfect for a speech of this nature. I LOVED your speech. "
+      ],
+      [
+        "8/28/2020 19:37:01",
+        "5",
+        "5",
+        "5",
+        "4",
+        "4",
+        "Tie back to how this relates to personal or professional relationships",
+        "The humor and accents used. Great intro. Aussie accents are great!"
+      ],
+      [
+        "8/28/2020 19:39:21",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "Nothing much! A small thing -- you sometimes string together multiple sentences with \"and\"s or \"so\"s (I myself do that too hehe)",
+        "The entertaining way in which you presented the story. Kept everyone engaged and touched upon all the relevant aspects of the story."
+      ],
+      [
+        "8/28/2020 19:43:15",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "",
+        "good australian accent attempt; rice vs race, nice!"
+      ]
+    ]
+  }
+  
